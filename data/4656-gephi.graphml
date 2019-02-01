@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+  http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"
+><key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="weight" for="edge" attr.name="weight" attr.type="double">
+<default>0.0</default>
+</key>
+<key id="crawlDate" for="edge" attr.name="crawlDate" attr.type="string" />
+<graph mode="static" edgedefault="directed">
+<node id="25a1c3e1f013706a8806b3f0980fdb7b">
+<data key="label">yummyinmytumbly.tumblr.com</data>
+</node>
+<node id="f9c6f1f0e70a21fd1375390ccb0198de">
+<data key="label">thegoldenstar.net</data>
+</node>
+<node id="56e89b8a33531673bbf64ea271561b67">
+<data key="label">clearwatertimes.com</data>
+</node>
+<node id="4b73253fa4ba145311540a716d94b453">
+<data key="label">accounts.google.com</data>
+</node>
+<node id="a1bd0c1cbd24fc1ae229fc9105b427e6">
+<data key="label">blackpressused.ca</data>
+</node>
+<node id="14b492cf6727dd1ab3a6efc7556b91bc">
+<data key="label">theguardian.com</data>
+</node>
+<node id="5aae135e15ebfbd4be088c37a247b904">
+<data key="label">tyeesolutions.org</data>
+</node>
+<node id="92ef0b186eec66f42359c4797fc5c997">
+<data key="label">livijoymakes.tumblr.com</data>
+</node>
+<node id="58b7293f80194a4a5dadb7450ea60c7f">
+<data key="label">image.issuu.com</data>
+</node>
+<node id="cf381e2499830a9832dc59f5b6b490ad">
+<data key="label">kelownacapnews.com</data>
+</node>
+<node id="d9c7c7c057a4aa38140147da4bb10d21">
+<data key="label">peacearchnews.com</data>
+</node>
+<node id="d8f69f3795c966be802663e9ee616d1a">
+<data key="label">pqbnews.com</data>
+</node>
+<node id="400ac6087cfe253e910c6362332613c5">
+<data key="label">subscription.time.com</data>
+</node>
+<node id="75c3d25f2c68dd5b21ab7c7d1a2cb1b0">
+<data key="label">goldstreamgazette.com</data>
+</node>
+<node id="700a1cdc950846712f2d88cf29db60eb">
+<data key="label">hallierosetaylor.tumblr.com</data>
+</node>
+<node id="30192bae759dafccc58bccc268c2b411">
+<data key="label">accuweather.com</data>
+</node>
+<node id="d66483bc8654a7f6b88c6e6ab4b5b415">
+<data key="label">terracestandard.com</data>
+</node>
+<node id="8687e4dc11548a5917504975feb7c649">
+<data key="label">oipc.bc.ca</data>
+</node>
+<node id="e57e3bf83ed5ce9869f3f26ffc0e50e2">
+<data key="label">westerlynews.ca</data>
+</node>
+<node id="122a29f2ee9b9b4077518ae4b6b9f455">
+<data key="label">myspace.com</data>
+</node>
+<node id="3f550bc163144ccb175a118c37a6641d">
+<data key="label">maps.google.com</data>
+</node>
+<node id="69b26507eaa383d1e079b80194157f87">
+<data key="label">janinebandcroft.ca</data>
+</node>
+<node id="4c90e57bde525f6c383a1f30bb06a1c9">
+<data key="label">usednanaimo.com</data>
+</node>
+<node id="9e3aba8100c12f05dcaf0c1b49b55fd1">
+<data key="label">help.issuu.com</data>
+</node>
+<node id="7157e931668ca7ed2882fe65fd0350bb">
+<data key="label">janinebandcroft.blogspot.com</data>
+</node>
+<node id="cc72feefe4412191d7545086696cd8db">
+<data key="label">voicesofthestreet.eventbrite.com</data>
+</node>
+<node id="b43e1ff406a4f9b03ea4b22c3d3703f9">
+<data key="label">relativenewz.ca</data>
+</node>
+<node id="8d661d40ac82065ee9f63bcca8ba3583">
+<data key="label">thenownewspaper.com</data>
+</node>
+<node id="893b67988a294cff8eec422b11512c82">
+<data key="label">cctvnews.tumblr.com</data>
+</node>
+<node id="69a230026e544f1c772ebb8a867dc6c6">
+<data key="label">megaphone.nationbuilder.com</data>
+</node>
+<node id="0c6008c905e8c95d6d663df7e501fff0">
+<data key="label">kimberleybulletin.com</data>
+</node>
+<node id="820842740ca8de40540fcfb409de0894">
+<data key="label">homes.ohio.com</data>
+</node>
+<node id="14dd5266c70789bdc806364df4586335">
+<data key="label">youtube.com</data>
+</node>
+<node id="62282a1318be1e2a8dea337b56427c58">
+<data key="label">hitrecord.tumblr.com</data>
+</node>
+<node id="5a0417a3346bca21886f131cecf9f193">
+<data key="label">d3n8a8pro7vhmx.cloudfront.net</data>
+</node>
+<node id="7d04c67202922b1f664302a07613a460">
+<data key="label">cloverdalereporter.com</data>
+</node>
+<node id="1b3726503af8d49e9073524443235308">
+<data key="label">nytimes.com</data>
+</node>
+<node id="c958fef086e8a0f536b3179f8fa3d318">
+<data key="label">get.adobe.com</data>
+</node>
+<node id="6facb35336479142547acaed12764a93">
+<data key="label">thedependent.ca</data>
+</node>
+<node id="85fffed236e918e128141fb07b2a45b3">
+<data key="label">canadahelps.org</data>
+</node>
+<node id="d1063af181fe606e55ed93dd5b867169">
+<data key="label">en.wikipedia.org</data>
+</node>
+<node id="69920e16239c36034d51c8e0f5fd6b35">
+<data key="label">jameshance.tumblr.com</data>
+</node>
+<node id="71a700ab37d86fde87e73626c854c4d9">
+<data key="label">nanaimodailynews.com</data>
+</node>
+<node id="c859e5f8ee8f4cdd7791f19b9999cd4d">
+<data key="label">bitly.com</data>
+</node>
+<node id="c58baff676d431a4f43bbfd269b34f93">
+<data key="label">vancouversun.com</data>
+</node>
+<node id="1a98ba9ab811c201404a212c4aa54646">
+<data key="label">pacegallery.tumblr.com</data>
+</node>
+<node id="c678e52aab7b07479e38784f278f0482">
+<data key="label">nelsonstar.com</data>
+</node>
+<node id="b75f4043809ab7a1229fe32ea2585372">
+<data key="label">adequateman.deadspin.com</data>
+</node>
+<node id="9b952d32043636398015226e066c3834">
+<data key="label">news1130.com</data>
+</node>
+<node id="c16ca90ad4ce76f709dec4eb677f4158">
+<data key="label">hitrecord.org</data>
+</node>
+<node id="48f8d46094bbc456c1b4aacc824003b4">
+<data key="label">metronews.ca</data>
+</node>
+<node id="6a9a7531bfee5a879eeb5986a37c3f1c">
+<data key="label">t.co</data>
+</node>
+<node id="15ec0f3a96275296334a3641809378c2">
+<data key="label">surreyleader.com</data>
+</node>
+<node id="d646b00f0a03645a3d754e9702107b81">
+<data key="label">wgsn.tumblr.com</data>
+</node>
+<node id="dd31717977924be83b056b20f8cc2c1f">
+<data key="label">street-papers.org</data>
+</node>
+<node id="8f9f95aef14ece4a4a5dc32a72721149">
+<data key="label">greenparty.ca</data>
+</node>
+<node id="7d52fcdeed5b5a483603b4be5c45a2df">
+<data key="label">rottentomatoes.com</data>
+</node>
+<node id="843007c77b878f3e022f0e02a161856c">
+<data key="label">bclocalnews.com</data>
+</node>
+<node id="cc3f467ad170412673afbad9ff3c9119">
+<data key="label">hitrecordjoe.tumblr.com</data>
+</node>
+<node id="c9cdcc8e0707c330988f7b8b6ece05bd">
+<data key="label">comoxvalleyrecord.com</data>
+</node>
+<node id="a46280034d5c17653ab7aeda25f63555">
+<data key="label">pacegallery.com</data>
+</node>
+<node id="657b8ef8afbb84fe2ada5a67df56ac41">
+<data key="label">dailytownsman.com</data>
+</node>
+<node id="365b7f914e8fafda2977fb90eef16500">
+<data key="label">behindthescenes.thecoveteur.com</data>
+</node>
+<node id="3585e83c4b32be27c5627c174eb18948">
+<data key="label">trailtimes.ca</data>
+</node>
+<node id="d0f493aa41438dab99dcd78a16917ac0">
+<data key="label">flickr.com</data>
+</node>
+<node id="b29be5231720eb0aa4d90f071239ce3a">
+<data key="label">saanichnews.com</data>
+</node>
+<node id="9404a788d888427ceb84e9aa1fadc9c2">
+<data key="label">mapleridgenews.com</data>
+</node>
+<node id="2f8272a7cb69a0991dec3928774a0fa8">
+<data key="label">webpapersadmin.blackpress.ca</data>
+</node>
+<node id="b707cd33574fba4236a86b641d5fc1e3">
+<data key="label">ohio.com</data>
+</node>
+<node id="8df8a4e4978b902de3859e6074cd323d">
+<data key="label">lowerislandnews.wordpress.com</data>
+</node>
+<node id="9de8dd9c8a465615892e171c1e79d125">
+<data key="label">blackpress.ca</data>
+</node>
+<node id="e2242798b6a665ee81f2ac00a9a8be62">
+<data key="label">wnyctransmitter.tumblr.com</data>
+</node>
+<node id="dfb144df8e646ea7ffd5e6a67d7c3ee7">
+<data key="label">nanaimobulletin.com</data>
+</node>
+<node id="214a126167ba526843761008e733d807">
+<data key="label">crestonvalleyadvance.ca</data>
+</node>
+<node id="0dd2653ce79c7e1fd74d6dc73e1339e4">
+<data key="label">headlinestheatre.com</data>
+</node>
+<node id="0509f2efb949f13bdea5fbde9b164bce">
+<data key="label">thetyee.ca</data>
+</node>
+<node id="8613b138fa70bf217139c2eff3eca797">
+<data key="label">sookenewsmirror.com</data>
+</node>
+<node id="4020f14589c5cbd984376313602e1e3d">
+<data key="label">vancouverisawesome.com</data>
+</node>
+<node id="a48e71d32a80da8e2c2a005da819c762">
+<data key="label">vancouver.ca</data>
+</node>
+<node id="eadcad42b35f426ae1078176f77b589a">
+<data key="label">drivewaycanada.ca</data>
+</node>
+<node id="921ce30d82cf9d0e31f2c3a3f3ccf61b">
+<data key="label">abbynews.com</data>
+</node>
+<node id="1c4dc8e3be5ae353c72ae3d051b4bd38">
+<data key="label">langleytimes.com</data>
+</node>
+<node id="653166773dc88127bd3afe0b6dfe5ea7">
+<data key="label">wordpress.com</data>
+</node>
+<node id="7b7936475036856b917586248186895e">
+<data key="label">pnw.cc</data>
+</node>
+<node id="ff0ce68bf0167bce979f6142d9ae7415">
+<data key="label">theglobeandmail.com</data>
+</node>
+<node id="3e601316a3b09bdfec5049aeb00b5cc0">
+<data key="label">pinterest.com</data>
+</node>
+<node id="6d564c2024b3c2711fbd347893684775">
+<data key="label">www2.gov.bc.ca</data>
+</node>
+<node id="319679ba0a13c2787ac7314633f37a35">
+<data key="label">ow.ly</data>
+</node>
+<node id="8582e800b3232888cf05dfe96768da92">
+<data key="label">time.com</data>
+</node>
+<node id="89cb5d1b9864eecd38d14057474af97a">
+<data key="label">vancouver.openfile.ca</data>
+</node>
+<node id="8b08664d74d0de15eabac9d28b3f5eb5">
+<data key="label">wltribune.com</data>
+</node>
+<node id="856411d55345883b9e31f92b6af4f785">
+<data key="label">vernonmorningstar.com</data>
+</node>
+<node id="3a5611b1cb5a8bbad63d4ff830c686ce">
+<data key="label">chilliwacktimes.com</data>
+</node>
+<node id="6539f49c725c24d7b0982cfb6d0f8957">
+<data key="label">vicnews.com</data>
+</node>
+<node id="2343ec78a04c6ea9d80806345d31fd78">
+<data key="label">facebook.com</data>
+</node>
+<node id="f29503adac177cd7652416d98101168c">
+<data key="label">megaphonemagazine.us1.list-manage1.com</data>
+</node>
+<node id="ee46336d7280f37cc7079facead2433c">
+<data key="label">news.gov.bc.ca</data>
+</node>
+<node id="9b28003ba399c4eaf79b058245f5771f">
+<data key="label">stophomelessness.ca</data>
+</node>
+<node id="81012615abd544ea5d9a3cede8da79bc">
+<data key="label">gravatar.com</data>
+</node>
+<node id="fef7f305e27f99a24d74f9ceac312a8b">
+<data key="label">storify.com</data>
+</node>
+<node id="c7bc5a7c4f505deef6d60d98e62a0f2f">
+<data key="label">hellogarlic.tumblr.com</data>
+</node>
+<node id="83e96752f4cdcc6a9e1434f2fcca6951">
+<data key="label">edition.pagesuite-professional.co.uk</data>
+</node>
+<node id="200e54d26da4a1e88ebb587c3895551d">
+<data key="label">bigstockphoto.com</data>
+</node>
+<node id="1adde63b40d371e096b35dfa412ea60a">
+<data key="label">addthis.com</data>
+</node>
+<node id="1de817eaab65bb6547b2d84a3d3d04ed">
+<data key="label">ohiomm.com</data>
+</node>
+<node id="89c3ef1cf9684b0da15134c8e791acf8">
+<data key="label">100milefreepress.net</data>
+</node>
+<node id="3b5d92b4053399a9d73307cacd387281">
+<data key="label">langleyadvance.com</data>
+</node>
+<node id="654bde5ba6a1a042d453e6687165639d">
+<data key="label">events.ohio.com</data>
+</node>
+<node id="e513e5966aa68544248fedf63d2b4976">
+<data key="label">straight.com</data>
+</node>
+<node id="0d9e1dbef669f096c6ab70edd272f8ab">
+<data key="label">traildailytimes.ca</data>
+</node>
+<node id="853aebe215603ca3d9aa34ddf87212c3">
+<data key="label">abbynews.upickem.net</data>
+</node>
+<node id="099c9a0f1af15043e74d82233de39bb0">
+<data key="label">feedproxy.google.com</data>
+</node>
+<node id="9b145da3063daa5613b934a57a84c65a">
+<data key="label">bcpovertyreduction.ca</data>
+</node>
+<node id="fd783554f298419a3ee053e912dae4f5">
+<data key="label">campbellrivermirror.com</data>
+</node>
+<node id="df50a565590f09725e36131530481f44">
+<data key="label">used.ca</data>
+</node>
+<node id="2fce722d5cd345be4f9c7121ef7bf964">
+<data key="label">megaphonemagazine.eventbrite.com</data>
+</node>
+<node id="c660cbec20bd2e23e4d3f733aa135540">
+<data key="label">cstreet.ca</data>
+</node>
+<node id="f52b0f0629e37d6dabeb4ec3c70310d7">
+<data key="label">lovndsqualr.tumblr.com</data>
+</node>
+<node id="0f7c74c3f3c8115a4054d3764d5e2d43">
+<data key="label">joliekerr.tumblr.com</data>
+</node>
+<node id="9e113bbb426649d588bd68ee34a7c0aa">
+<data key="label">badpedestrian.tumblr.com</data>
+</node>
+<node id="1f2370370575aaff5b8d9da248035ed6">
+<data key="label">find.megaphonemagazine.com</data>
+</node>
+<node id="95093b1e69e4eb7ba6d15ee439dbb9cb">
+<data key="label">goo.gl</data>
+</node>
+<node id="e0d6ee3eb988c6ed090f5dba2c4d60c5">
+<data key="label">cbc.ca</data>
+</node>
+<node id="6ea5f31aeedefd3a2708062f8afe0ace">
+<data key="label">westender.com</data>
+</node>
+<node id="787900826c8a1446b0cfdad24a5d6e56">
+<data key="label">lowerislandnews.files.wordpress.com</data>
+</node>
+<node id="ac8e22e485e84178ebd07b0a71763198">
+<data key="label">janinebandcroft.wordpress.com</data>
+</node>
+<node id="360e65b0b30734cd68ab0cdff6f33afc">
+<data key="label">vancourier.com</data>
+</node>
+<node id="11a8d1da944f5c92538c85744602087b">
+<data key="label">hopeinshadows.com</data>
+</node>
+<node id="81c6f18cc5e6596d7660f9d60b983a1a">
+<data key="label">oakbaynews.com</data>
+</node>
+<node id="33a9c9a9a2a4b3fa9f6109d0125c07a8">
+<data key="label">webpapersadmin.bpnewmedia.com</data>
+</node>
+<node id="2f77ab9491e9b34617890d6becadead3">
+<data key="label">pentictonwesternnews.com</data>
+</node>
+<node id="cbcf3da2c883c1e14446f9fde1f7bce4">
+<data key="label">blackpress.tv</data>
+</node>
+<node id="f240164700c9e7a830ccfeb26f8b5a09">
+<data key="label">bpresscn.accuweather.com</data>
+</node>
+<node id="bb9777ac8b51e24a0bace16e72e6ebf4">
+<data key="label">mrtimes.com</data>
+</node>
+<node id="1d5920f4b44b27a802bd77c4f0536f5a">
+<data key="label">google.com</data>
+</node>
+<node id="46d742464df97987b255e8aac82586bf">
+<data key="label">localworkbc.ca</data>
+</node>
+<node id="8284110eb276ebbb45b9ef38ab01372c">
+<data key="label">davidharris.tumblr.com</data>
+</node>
+<node id="4694cffb8ff8e026c83457cf0db90538">
+<data key="label">marcomazzoni.tumblr.com</data>
+</node>
+<node id="9d0f74269019ad82ae82cc7a7f2b5d1b">
+<data key="label">surveymonkey.com</data>
+</node>
+<node id="604d5c5ec67df1a11cfaacc25418d7d8">
+<data key="label">bit.ly</data>
+</node>
+<node id="951d639cac129388a9eab17455e796b4">
+<data key="label">save.ca</data>
+</node>
+<node id="8f71c5ecdea1137fef99aafa4c8ef01d">
+<data key="label">bcclassified.com</data>
+</node>
+<node id="452cc476f1b37d32d9d246b53d8715e5">
+<data key="label">vancouverobserver.com</data>
+</node>
+<node id="306c89f1233a2a7ac5a230fb6d2e3bbf">
+<data key="label">legacy.com</data>
+</node>
+<node id="35929ac433d4b0ff602561a9bc6ec261">
+<data key="label">support.google.com</data>
+</node>
+<node id="5207dcbcd08d43e40223ed6abb9e9c1f">
+<data key="label">nanaimocrimestoppers.com</data>
+</node>
+<node id="c36f13322d29df873cc43b3e6badccad">
+<data key="label">theprogress.com</data>
+</node>
+<node id="b2f0b579c6a84dcffa52f12a22b3290f">
+<data key="label">issuu.com</data>
+</node>
+<node id="0388f9f92864614bf15d1d0de72600d9">
+<data key="label">kootenayadvertiser.com</data>
+</node>
+<node id="666e5da776f6493689b0d6058ff2738a">
+<data key="label">infogr.am</data>
+</node>
+<node id="2cafb94bc9201588ce95fea07e23f5b4">
+<data key="label">cowichanvalleycitizen.com</data>
+</node>
+<node id="84314f01e87cb656ba5f382d22d85134">
+<data key="label">tumblr.com</data>
+</node>
+<node id="f4f56efd758a7bf3dbc49100013e0037">
+<data key="label">lowerislandnews.com</data>
+</node>
+<node id="b08e840a0d234d7ddc6269af567a6d6d">
+<data key="label">francesbula.com</data>
+</node>
+<node id="38d4a183a2451432f972778eabadb898">
+<data key="label">eventbrite.com</data>
+</node>
+<node id="1f9f7ec372761d98fcf5b18f1b4fde85">
+<data key="label">victorysquare.net</data>
+</node>
+<node id="3f9671e9d19aff5acaba23ac16f5d45a">
+<data key="label">albernivalleynews.com</data>
+</node>
+<node id="0c2948bafc857156072e55337bd34eac">
+<data key="label">nationbuilder.com</data>
+</node>
+<node id="f159549b818cdf49dfbb705ec717951a">
+<data key="label">greiskuring.tumblr.com</data>
+</node>
+<node id="44b6b0cef972ce89a6f5cd2266848f28">
+<data key="label">citycaucus.com</data>
+</node>
+<node id="72d3a49d11f6c9c145a595075c382ab2">
+<data key="label">charleshuettner.tumblr.com</data>
+</node>
+<node id="869061f3c83d09e4a3ce6cd9274bbfc6">
+<data key="label">cknw.com</data>
+</node>
+<node id="3f272f82978272d6465640bfcdb6e109">
+<data key="label">pivotlegal.org</data>
+</node>
+<node id="bcd7b0cb7c0cbcea8fa483157bfbc5c3">
+<data key="label">schema.org</data>
+</node>
+<node id="61e48e741e56da0b0801f533fcad47dc">
+<data key="label">bcdailybuzz.com</data>
+</node>
+<node id="9ef369fb39a867b2bd3dd6272e35520f">
+<data key="label">sh4tterdgl4ss.tumblr.com</data>
+</node>
+<node id="6ebf875f95097f8c2fc057e6d7dd2af6">
+<data key="label">jameshance.com</data>
+</node>
+<node id="2362032663cc1e5e15616caf73cc37a1">
+<data key="label">vancouver.24hrs.ca</data>
+</node>
+<node id="d1bf152791a7a44e6bd84fb1ae021f96">
+<data key="label">theprovince.com</data>
+</node>
+<node id="7905d1c4e12c54933a44d19fcd5f9356">
+<data key="label">twitter.com</data>
+</node>
+<node id="f7fc72d1ff918043d45767e1ec17b691">
+<data key="label">reddeeradvocate.com</data>
+</node>
+<node id="4a4788c1dfc396b1f86355b274cc26b3">
+<data key="label">plus.google.com</data>
+</node>
+<node id="c5fe746f912952adaa96975c18cc782c">
+<data key="label">shopping.ohio.com</data>
+</node>
+<node id="dcc4e868063557d28c92930f16b3afca">
+<data key="label">iservices.blackpress.ca</data>
+</node>
+<node id="ca0e248c9961a2c5bff1112089b43785">
+<data key="label">autos.ohio.com</data>
+</node>
+<node id="e51f104be35a794c7e58ee1b94c17dd3">
+<data key="label">megaphonemagazine.com</data>
+</node>
+<node id="d6777146f78461ee95d5aed3b81fb852">
+<data key="label">en.wordpress.com</data>
+</node>
+<node id="a365fbe08f09c71467fe178f2277ba90">
+<data key="label">megaphonemagazine.us1.list-manage.com</data>
+</node>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="71a700ab37d86fde87e73626c854c4d9"  type="directed">
+<data key="weight">1301886</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="71a700ab37d86fde87e73626c854c4d9"  type="directed">
+<data key="weight">1115374</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="843007c77b878f3e022f0e02a161856c"  type="directed">
+<data key="weight">478096</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="71a700ab37d86fde87e73626c854c4d9"  type="directed">
+<data key="weight">336248</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="9de8dd9c8a465615892e171c1e79d125"  type="directed">
+<data key="weight">334929</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="9de8dd9c8a465615892e171c1e79d125"  type="directed">
+<data key="weight">326029</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="843007c77b878f3e022f0e02a161856c"  type="directed">
+<data key="weight">178017</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="843007c77b878f3e022f0e02a161856c"  type="directed">
+<data key="weight">145461</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="9de8dd9c8a465615892e171c1e79d125"  type="directed">
+<data key="weight">106561</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="71a700ab37d86fde87e73626c854c4d9"  type="directed">
+<data key="weight">93348</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="eadcad42b35f426ae1078176f77b589a"  type="directed">
+<data key="weight">72709</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="2343ec78a04c6ea9d80806345d31fd78"  type="directed">
+<data key="weight">72699</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="4c90e57bde525f6c383a1f30bb06a1c9"  type="directed">
+<data key="weight">71427</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="4c90e57bde525f6c383a1f30bb06a1c9"  type="directed">
+<data key="weight">70840</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">70451</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="1adde63b40d371e096b35dfa412ea60a"  type="directed">
+<data key="weight">70442</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">68851</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="1adde63b40d371e096b35dfa412ea60a"  type="directed">
+<data key="weight">68738</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="eadcad42b35f426ae1078176f77b589a"  type="directed">
+<data key="weight">68298</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="83e96752f4cdcc6a9e1434f2fcca6951"  type="directed">
+<data key="weight">68298</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="2343ec78a04c6ea9d80806345d31fd78"  type="directed">
+<data key="weight">68119</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="8f71c5ecdea1137fef99aafa4c8ef01d"  type="directed">
+<data key="weight">49708</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="dcc4e868063557d28c92930f16b3afca"  type="directed">
+<data key="weight">47847</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="dcc4e868063557d28c92930f16b3afca"  type="directed">
+<data key="weight">46575</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="a1bd0c1cbd24fc1ae229fc9105b427e6"  type="directed">
+<data key="weight">43446</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="2343ec78a04c6ea9d80806345d31fd78"  type="directed">
+<data key="weight">25436</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="eadcad42b35f426ae1078176f77b589a"  type="directed">
+<data key="weight">25431</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="83e96752f4cdcc6a9e1434f2fcca6951"  type="directed">
+<data key="weight">25431</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="46d742464df97987b255e8aac82586bf"  type="directed">
+<data key="weight">24834</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="3e601316a3b09bdfec5049aeb00b5cc0"  type="directed">
+<data key="weight">23020</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="9de8dd9c8a465615892e171c1e79d125"  type="directed">
+<data key="weight">22651</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="46d742464df97987b255e8aac82586bf"  type="directed">
+<data key="weight">21532</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="3e601316a3b09bdfec5049aeb00b5cc0"  type="directed">
+<data key="weight">20958</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="a1bd0c1cbd24fc1ae229fc9105b427e6"  type="directed">
+<data key="weight">20416</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="4c90e57bde525f6c383a1f30bb06a1c9"  type="directed">
+<data key="weight">20238</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">18420</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="1adde63b40d371e096b35dfa412ea60a"  type="directed">
+<data key="weight">18409</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="dcc4e868063557d28c92930f16b3afca"  type="directed">
+<data key="weight">15223</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="46d742464df97987b255e8aac82586bf"  type="directed">
+<data key="weight">10208</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="843007c77b878f3e022f0e02a161856c"  type="directed">
+<data key="weight">9690</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="3e601316a3b09bdfec5049aeb00b5cc0"  type="directed">
+<data key="weight">8625</data>
+<data key="crawlDate">20160723</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="e51f104be35a794c7e58ee1b94c17dd3"  type="directed">
+<data key="weight">5818</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="58b7293f80194a4a5dadb7450ea60c7f"  type="directed">
+<data key="weight">5784</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="f4f56efd758a7bf3dbc49100013e0037" target="f4f56efd758a7bf3dbc49100013e0037"  type="directed">
+<data key="weight">5110</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="4c90e57bde525f6c383a1f30bb06a1c9"  type="directed">
+<data key="weight">4863</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="eadcad42b35f426ae1078176f77b589a"  type="directed">
+<data key="weight">4842</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="58b7293f80194a4a5dadb7450ea60c7f"  type="directed">
+<data key="weight">4724</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="2343ec78a04c6ea9d80806345d31fd78"  type="directed">
+<data key="weight">4660</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">4478</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">4347</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="1adde63b40d371e096b35dfa412ea60a"  type="directed">
+<data key="weight">4336</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="69a230026e544f1c772ebb8a867dc6c6"  type="directed">
+<data key="weight">4223</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="dcc4e868063557d28c92930f16b3afca"  type="directed">
+<data key="weight">3235</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="8f71c5ecdea1137fef99aafa4c8ef01d"  type="directed">
+<data key="weight">3214</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="2343ec78a04c6ea9d80806345d31fd78"  type="directed">
+<data key="weight">3021</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="d0f493aa41438dab99dcd78a16917ac0"  type="directed">
+<data key="weight">1705</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="1f2370370575aaff5b8d9da248035ed6"  type="directed">
+<data key="weight">1635</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="0c2948bafc857156072e55337bd34eac"  type="directed">
+<data key="weight">1621</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="c660cbec20bd2e23e4d3f733aa135540"  type="directed">
+<data key="weight">1620</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="46d742464df97987b255e8aac82586bf"  type="directed">
+<data key="weight">1422</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="f4f56efd758a7bf3dbc49100013e0037" target="653166773dc88127bd3afe0b6dfe5ea7"  type="directed">
+<data key="weight">1368</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="843007c77b878f3e022f0e02a161856c"  type="directed">
+<data key="weight">1308</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="3e601316a3b09bdfec5049aeb00b5cc0"  type="directed">
+<data key="weight">1296</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="58b7293f80194a4a5dadb7450ea60c7f"  type="directed">
+<data key="weight">720</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="f4f56efd758a7bf3dbc49100013e0037" target="8df8a4e4978b902de3859e6074cd323d"  type="directed">
+<data key="weight">343</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="f4f56efd758a7bf3dbc49100013e0037" target="d6777146f78461ee95d5aed3b81fb852"  type="directed">
+<data key="weight">336</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="700a1cdc950846712f2d88cf29db60eb" target="700a1cdc950846712f2d88cf29db60eb"  type="directed">
+<data key="weight">244</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="d646b00f0a03645a3d754e9702107b81" target="d646b00f0a03645a3d754e9702107b81"  type="directed">
+<data key="weight">204</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="c958fef086e8a0f536b3179f8fa3d318"  type="directed">
+<data key="weight">186</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="c958fef086e8a0f536b3179f8fa3d318"  type="directed">
+<data key="weight">177</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="b2f0b579c6a84dcffa52f12a22b3290f" target="9e3aba8100c12f05dcaf0c1b49b55fd1"  type="directed">
+<data key="weight">165</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="b2f0b579c6a84dcffa52f12a22b3290f" target="4a4788c1dfc396b1f86355b274cc26b3"  type="directed">
+<data key="weight">165</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="9de8dd9c8a465615892e171c1e79d125"  type="directed">
+<data key="weight">154</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="fef7f305e27f99a24d74f9ceac312a8b" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">138</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="c859e5f8ee8f4cdd7791f19b9999cd4d" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">131</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="b2f0b579c6a84dcffa52f12a22b3290f" target="b2f0b579c6a84dcffa52f12a22b3290f"  type="directed">
+<data key="weight">130</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="b43e1ff406a4f9b03ea4b22c3d3703f9" target="7157e931668ca7ed2882fe65fd0350bb"  type="directed">
+<data key="weight">127</data>
+<data key="crawlDate">20140616</data>
+</edge>
+<edge source="b43e1ff406a4f9b03ea4b22c3d3703f9" target="69b26507eaa383d1e079b80194157f87"  type="directed">
+<data key="weight">124</data>
+<data key="crawlDate">20140616</data>
+</edge>
+<edge source="b2f0b579c6a84dcffa52f12a22b3290f" target="9e3aba8100c12f05dcaf0c1b49b55fd1"  type="directed">
+<data key="weight">123</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="b2f0b579c6a84dcffa52f12a22b3290f" target="4a4788c1dfc396b1f86355b274cc26b3"  type="directed">
+<data key="weight">122</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="b43e1ff406a4f9b03ea4b22c3d3703f9" target="ac8e22e485e84178ebd07b0a71763198"  type="directed">
+<data key="weight">113</data>
+<data key="crawlDate">20140616</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="3f550bc163144ccb175a118c37a6641d"  type="directed">
+<data key="weight">113</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="b43e1ff406a4f9b03ea4b22c3d3703f9" target="9d0f74269019ad82ae82cc7a7f2b5d1b"  type="directed">
+<data key="weight">113</data>
+<data key="crawlDate">20140616</data>
+</edge>
+<edge source="1a98ba9ab811c201404a212c4aa54646" target="1a98ba9ab811c201404a212c4aa54646"  type="directed">
+<data key="weight">103</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="360e65b0b30734cd68ab0cdff6f33afc"  type="directed">
+<data key="weight">89</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="14dd5266c70789bdc806364df4586335" target="4b73253fa4ba145311540a716d94b453"  type="directed">
+<data key="weight">87</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="8582e800b3232888cf05dfe96768da92" target="8582e800b3232888cf05dfe96768da92"  type="directed">
+<data key="weight">83</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="856411d55345883b9e31f92b6af4f785"  type="directed">
+<data key="weight">76</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="ff0ce68bf0167bce979f6142d9ae7415"  type="directed">
+<data key="weight">75</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="c58baff676d431a4f43bbfd269b34f93"  type="directed">
+<data key="weight">72</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="4a4788c1dfc396b1f86355b274cc26b3" target="4a4788c1dfc396b1f86355b274cc26b3"  type="directed">
+<data key="weight">71</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="4a4788c1dfc396b1f86355b274cc26b3" target="4a4788c1dfc396b1f86355b274cc26b3"  type="directed">
+<data key="weight">71</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="e0d6ee3eb988c6ed090f5dba2c4d60c5"  type="directed">
+<data key="weight">70</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="15ec0f3a96275296334a3641809378c2"  type="directed">
+<data key="weight">66</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="81c6f18cc5e6596d7660f9d60b983a1a"  type="directed">
+<data key="weight">62</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="d1bf152791a7a44e6bd84fb1ae021f96"  type="directed">
+<data key="weight">61</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="b2f0b579c6a84dcffa52f12a22b3290f"  type="directed">
+<data key="weight">60</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="14dd5266c70789bdc806364df4586335"  type="directed">
+<data key="weight">60</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="f4f56efd758a7bf3dbc49100013e0037" target="787900826c8a1446b0cfdad24a5d6e56"  type="directed">
+<data key="weight">60</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="69920e16239c36034d51c8e0f5fd6b35" target="69920e16239c36034d51c8e0f5fd6b35"  type="directed">
+<data key="weight">58</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="e513e5966aa68544248fedf63d2b4976"  type="directed">
+<data key="weight">57</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="921ce30d82cf9d0e31f2c3a3f3ccf61b"  type="directed">
+<data key="weight">56</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="6a9a7531bfee5a879eeb5986a37c3f1c"  type="directed">
+<data key="weight">56</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="2cafb94bc9201588ce95fea07e23f5b4"  type="directed">
+<data key="weight">54</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="0509f2efb949f13bdea5fbde9b164bce"  type="directed">
+<data key="weight">54</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="c9cdcc8e0707c330988f7b8b6ece05bd"  type="directed">
+<data key="weight">54</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="200e54d26da4a1e88ebb587c3895551d"  type="directed">
+<data key="weight">53</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="84314f01e87cb656ba5f382d22d85134" target="84314f01e87cb656ba5f382d22d85134"  type="directed">
+<data key="weight">50</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="c678e52aab7b07479e38784f278f0482"  type="directed">
+<data key="weight">48</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="4b73253fa4ba145311540a716d94b453" target="4b73253fa4ba145311540a716d94b453"  type="directed">
+<data key="weight">48</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="921ce30d82cf9d0e31f2c3a3f3ccf61b"  type="directed">
+<data key="weight">48</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="3b5d92b4053399a9d73307cacd387281"  type="directed">
+<data key="weight">45</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="c678e52aab7b07479e38784f278f0482"  type="directed">
+<data key="weight">44</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="2f77ab9491e9b34617890d6becadead3"  type="directed">
+<data key="weight">43</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="b2f0b579c6a84dcffa52f12a22b3290f"  type="directed">
+<data key="weight">42</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="4a4788c1dfc396b1f86355b274cc26b3"  type="directed">
+<data key="weight">42</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="1c4dc8e3be5ae353c72ae3d051b4bd38"  type="directed">
+<data key="weight">41</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="8b08664d74d0de15eabac9d28b3f5eb5"  type="directed">
+<data key="weight">41</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="c678e52aab7b07479e38784f278f0482"  type="directed">
+<data key="weight">40</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="452cc476f1b37d32d9d246b53d8715e5"  type="directed">
+<data key="weight">40</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="c36f13322d29df873cc43b3e6badccad"  type="directed">
+<data key="weight">40</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="dfb144df8e646ea7ffd5e6a67d7c3ee7"  type="directed">
+<data key="weight">38</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="0d9e1dbef669f096c6ab70edd272f8ab"  type="directed">
+<data key="weight">38</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="8613b138fa70bf217139c2eff3eca797"  type="directed">
+<data key="weight">36</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="c859e5f8ee8f4cdd7791f19b9999cd4d" target="c859e5f8ee8f4cdd7791f19b9999cd4d"  type="directed">
+<data key="weight">35</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="14dd5266c70789bdc806364df4586335" target="1d5920f4b44b27a802bd77c4f0536f5a"  type="directed">
+<data key="weight">35</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="eadcad42b35f426ae1078176f77b589a"  type="directed">
+<data key="weight">34</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="9de8dd9c8a465615892e171c1e79d125" target="9de8dd9c8a465615892e171c1e79d125"  type="directed">
+<data key="weight">31</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="f52b0f0629e37d6dabeb4ec3c70310d7" target="f52b0f0629e37d6dabeb4ec3c70310d7"  type="directed">
+<data key="weight">31</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="9404a788d888427ceb84e9aa1fadc9c2"  type="directed">
+<data key="weight">30</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="69920e16239c36034d51c8e0f5fd6b35" target="2343ec78a04c6ea9d80806345d31fd78"  type="directed">
+<data key="weight">30</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="cc3f467ad170412673afbad9ff3c9119" target="c16ca90ad4ce76f709dec4eb677f4158"  type="directed">
+<data key="weight">29</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="4a4788c1dfc396b1f86355b274cc26b3" target="7b7936475036856b917586248186895e"  type="directed">
+<data key="weight">28</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="1de817eaab65bb6547b2d84a3d3d04ed"  type="directed">
+<data key="weight">28</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="1de817eaab65bb6547b2d84a3d3d04ed"  type="directed">
+<data key="weight">28</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="4a4788c1dfc396b1f86355b274cc26b3" target="7b7936475036856b917586248186895e"  type="directed">
+<data key="weight">28</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e2242798b6a665ee81f2ac00a9a8be62" target="e2242798b6a665ee81f2ac00a9a8be62"  type="directed">
+<data key="weight">28</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="cf381e2499830a9832dc59f5b6b490ad"  type="directed">
+<data key="weight">28</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="4694cffb8ff8e026c83457cf0db90538" target="4694cffb8ff8e026c83457cf0db90538"  type="directed">
+<data key="weight">27</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="122a29f2ee9b9b4077518ae4b6b9f455"  type="directed">
+<data key="weight">26</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="6ea5f31aeedefd3a2708062f8afe0ace"  type="directed">
+<data key="weight">25</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="7905d1c4e12c54933a44d19fcd5f9356" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">25</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="46d742464df97987b255e8aac82586bf"  type="directed">
+<data key="weight">24</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="3a5611b1cb5a8bbad63d4ff830c686ce"  type="directed">
+<data key="weight">24</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="9b952d32043636398015226e066c3834"  type="directed">
+<data key="weight">24</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="8d661d40ac82065ee9f63bcca8ba3583"  type="directed">
+<data key="weight">24</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="cc3f467ad170412673afbad9ff3c9119" target="cc3f467ad170412673afbad9ff3c9119"  type="directed">
+<data key="weight">24</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="92ef0b186eec66f42359c4797fc5c997" target="92ef0b186eec66f42359c4797fc5c997"  type="directed">
+<data key="weight">24</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="4b73253fa4ba145311540a716d94b453" target="1d5920f4b44b27a802bd77c4f0536f5a"  type="directed">
+<data key="weight">24</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="d9c7c7c057a4aa38140147da4bb10d21"  type="directed">
+<data key="weight">23</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="1a98ba9ab811c201404a212c4aa54646" target="a46280034d5c17653ab7aeda25f63555"  type="directed">
+<data key="weight">23</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="dcc4e868063557d28c92930f16b3afca"  type="directed">
+<data key="weight">22</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="9de8dd9c8a465615892e171c1e79d125" target="9de8dd9c8a465615892e171c1e79d125"  type="directed">
+<data key="weight">22</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="85fffed236e918e128141fb07b2a45b3"  type="directed">
+<data key="weight">22</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="0388f9f92864614bf15d1d0de72600d9"  type="directed">
+<data key="weight">22</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="33a9c9a9a2a4b3fa9f6109d0125c07a8"  type="directed">
+<data key="weight">22</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="d66483bc8654a7f6b88c6e6ab4b5b415"  type="directed">
+<data key="weight">21</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="9e113bbb426649d588bd68ee34a7c0aa" target="9e113bbb426649d588bd68ee34a7c0aa"  type="directed">
+<data key="weight">21</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="25a1c3e1f013706a8806b3f0980fdb7b" target="25a1c3e1f013706a8806b3f0980fdb7b"  type="directed">
+<data key="weight">21</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="c7bc5a7c4f505deef6d60d98e62a0f2f" target="c7bc5a7c4f505deef6d60d98e62a0f2f"  type="directed">
+<data key="weight">21</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="b08e840a0d234d7ddc6269af567a6d6d"  type="directed">
+<data key="weight">21</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="72d3a49d11f6c9c145a595075c382ab2" target="72d3a49d11f6c9c145a595075c382ab2"  type="directed">
+<data key="weight">21</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="3b5d92b4053399a9d73307cacd387281"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="c958fef086e8a0f536b3179f8fa3d318"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="3a5611b1cb5a8bbad63d4ff830c686ce"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="33a9c9a9a2a4b3fa9f6109d0125c07a8"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="3f9671e9d19aff5acaba23ac16f5d45a"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="14dd5266c70789bdc806364df4586335" target="14dd5266c70789bdc806364df4586335"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="89cb5d1b9864eecd38d14057474af97a"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="bb9777ac8b51e24a0bace16e72e6ebf4"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="56e89b8a33531673bbf64ea271561b67"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="0c6008c905e8c95d6d663df7e501fff0"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="214a126167ba526843761008e733d807"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="14dd5266c70789bdc806364df4586335" target="4b73253fa4ba145311540a716d94b453"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="3585e83c4b32be27c5627c174eb18948"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="69920e16239c36034d51c8e0f5fd6b35" target="84314f01e87cb656ba5f382d22d85134"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="2f77ab9491e9b34617890d6becadead3"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="cf381e2499830a9832dc59f5b6b490ad"  type="directed">
+<data key="weight">20</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="869061f3c83d09e4a3ce6cd9274bbfc6"  type="directed">
+<data key="weight">19</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="14dd5266c70789bdc806364df4586335" target="4a4788c1dfc396b1f86355b274cc26b3"  type="directed">
+<data key="weight">18</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="15ec0f3a96275296334a3641809378c2"  type="directed">
+<data key="weight">18</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="69920e16239c36034d51c8e0f5fd6b35" target="6ebf875f95097f8c2fc057e6d7dd2af6"  type="directed">
+<data key="weight">18</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="b2f0b579c6a84dcffa52f12a22b3290f" target="b2f0b579c6a84dcffa52f12a22b3290f"  type="directed">
+<data key="weight">18</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="a365fbe08f09c71467fe178f2277ba90"  type="directed">
+<data key="weight">18</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="69920e16239c36034d51c8e0f5fd6b35" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">17</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="5a0417a3346bca21886f131cecf9f193"  type="directed">
+<data key="weight">17</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="f4f56efd758a7bf3dbc49100013e0037" target="81012615abd544ea5d9a3cede8da79bc"  type="directed">
+<data key="weight">17</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="61e48e741e56da0b0801f533fcad47dc"  type="directed">
+<data key="weight">17</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="893b67988a294cff8eec422b11512c82" target="893b67988a294cff8eec422b11512c82"  type="directed">
+<data key="weight">17</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="fd783554f298419a3ee053e912dae4f5"  type="directed">
+<data key="weight">17</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="df50a565590f09725e36131530481f44"  type="directed">
+<data key="weight">16</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="71a700ab37d86fde87e73626c854c4d9"  type="directed">
+<data key="weight">16</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="f159549b818cdf49dfbb705ec717951a" target="f159549b818cdf49dfbb705ec717951a"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="7d04c67202922b1f664302a07613a460"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="f240164700c9e7a830ccfeb26f8b5a09" target="30192bae759dafccc58bccc268c2b411"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="365b7f914e8fafda2977fb90eef16500" target="365b7f914e8fafda2977fb90eef16500"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="853aebe215603ca3d9aa34ddf87212c3"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="cbcf3da2c883c1e14446f9fde1f7bce4"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="f240164700c9e7a830ccfeb26f8b5a09" target="30192bae759dafccc58bccc268c2b411"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="4a4788c1dfc396b1f86355b274cc26b3" target="1d5920f4b44b27a802bd77c4f0536f5a"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="4a4788c1dfc396b1f86355b274cc26b3" target="1d5920f4b44b27a802bd77c4f0536f5a"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="365b7f914e8fafda2977fb90eef16500" target="84314f01e87cb656ba5f382d22d85134"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="69920e16239c36034d51c8e0f5fd6b35" target="3e601316a3b09bdfec5049aeb00b5cc0"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="1f9f7ec372761d98fcf5b18f1b4fde85"  type="directed">
+<data key="weight">14</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="654bde5ba6a1a042d453e6687165639d"  type="directed">
+<data key="weight">14</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="a48e71d32a80da8e2c2a005da819c762"  type="directed">
+<data key="weight">14</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="654bde5ba6a1a042d453e6687165639d"  type="directed">
+<data key="weight">14</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="6facb35336479142547acaed12764a93"  type="directed">
+<data key="weight">14</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="306c89f1233a2a7ac5a230fb6d2e3bbf"  type="directed">
+<data key="weight">13</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="5207dcbcd08d43e40223ed6abb9e9c1f"  type="directed">
+<data key="weight">13</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="365b7f914e8fafda2977fb90eef16500" target="604d5c5ec67df1a11cfaacc25418d7d8"  type="directed">
+<data key="weight">13</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="6d564c2024b3c2711fbd347893684775"  type="directed">
+<data key="weight">13</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="306c89f1233a2a7ac5a230fb6d2e3bbf"  type="directed">
+<data key="weight">13</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="0f7c74c3f3c8115a4054d3764d5e2d43" target="0f7c74c3f3c8115a4054d3764d5e2d43"  type="directed">
+<data key="weight">13</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="bb9777ac8b51e24a0bace16e72e6ebf4"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="c5fe746f912952adaa96975c18cc782c"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="61e48e741e56da0b0801f533fcad47dc"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="4b73253fa4ba145311540a716d94b453" target="35929ac433d4b0ff602561a9bc6ec261"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="8f71c5ecdea1137fef99aafa4c8ef01d"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="666e5da776f6493689b0d6058ff2738a"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="c5fe746f912952adaa96975c18cc782c"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="4a4788c1dfc396b1f86355b274cc26b3" target="4b73253fa4ba145311540a716d94b453"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="2f8272a7cb69a0991dec3928774a0fa8"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="c36f13322d29df873cc43b3e6badccad"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="48f8d46094bbc456c1b4aacc824003b4"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="11a8d1da944f5c92538c85744602087b"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="b29be5231720eb0aa4d90f071239ce3a"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="820842740ca8de40540fcfb409de0894"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="820842740ca8de40540fcfb409de0894"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="69a230026e544f1c772ebb8a867dc6c6" target="69a230026e544f1c772ebb8a867dc6c6"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="3f272f82978272d6465640bfcdb6e109"  type="directed">
+<data key="weight">11</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="951d639cac129388a9eab17455e796b4" target="951d639cac129388a9eab17455e796b4"  type="directed">
+<data key="weight">11</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="5207dcbcd08d43e40223ed6abb9e9c1f"  type="directed">
+<data key="weight">11</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="8284110eb276ebbb45b9ef38ab01372c" target="8284110eb276ebbb45b9ef38ab01372c"  type="directed">
+<data key="weight">11</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="d646b00f0a03645a3d754e9702107b81" target="84314f01e87cb656ba5f382d22d85134"  type="directed">
+<data key="weight">11</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="bcd7b0cb7c0cbcea8fa483157bfbc5c3" target="bcd7b0cb7c0cbcea8fa483157bfbc5c3"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="700a1cdc950846712f2d88cf29db60eb" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="6a9a7531bfee5a879eeb5986a37c3f1c"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="4a4788c1dfc396b1f86355b274cc26b3" target="319679ba0a13c2787ac7314633f37a35"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="14dd5266c70789bdc806364df4586335"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="951d639cac129388a9eab17455e796b4" target="951d639cac129388a9eab17455e796b4"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="bcd7b0cb7c0cbcea8fa483157bfbc5c3" target="bcd7b0cb7c0cbcea8fa483157bfbc5c3"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="700a1cdc950846712f2d88cf29db60eb" target="84314f01e87cb656ba5f382d22d85134"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="14dd5266c70789bdc806364df4586335" target="4b73253fa4ba145311540a716d94b453"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="9de8dd9c8a465615892e171c1e79d125" target="099c9a0f1af15043e74d82233de39bb0"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="44b6b0cef972ce89a6f5cd2266848f28"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="75c3d25f2c68dd5b21ab7c7d1a2cb1b0"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="700a1cdc950846712f2d88cf29db60eb" target="2343ec78a04c6ea9d80806345d31fd78"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="9b28003ba399c4eaf79b058245f5771f"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="8687e4dc11548a5917504975feb7c649"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="4020f14589c5cbd984376313602e1e3d"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="38d4a183a2451432f972778eabadb898"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="fef7f305e27f99a24d74f9ceac312a8b" target="843007c77b878f3e022f0e02a161856c"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="15ec0f3a96275296334a3641809378c2"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="6539f49c725c24d7b0982cfb6d0f8957"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="921ce30d82cf9d0e31f2c3a3f3ccf61b"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="d8f69f3795c966be802663e9ee616d1a"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="cc72feefe4412191d7545086696cd8db"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="8f9f95aef14ece4a4a5dc32a72721149"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="14dd5266c70789bdc806364df4586335" target="1d5920f4b44b27a802bd77c4f0536f5a"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="cc3f467ad170412673afbad9ff3c9119" target="62282a1318be1e2a8dea337b56427c58"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="1b3726503af8d49e9073524443235308"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="ca0e248c9961a2c5bff1112089b43785"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="ca0e248c9961a2c5bff1112089b43785"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="8df8a4e4978b902de3859e6074cd323d" target="653166773dc88127bd3afe0b6dfe5ea7"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="89c3ef1cf9684b0da15134c8e791acf8"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="e0d6ee3eb988c6ed090f5dba2c4d60c5"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="d646b00f0a03645a3d754e9702107b81" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="f29503adac177cd7652416d98101168c"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="14dd5266c70789bdc806364df4586335"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="ee46336d7280f37cc7079facead2433c"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="14b492cf6727dd1ab3a6efc7556b91bc"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="fef7f305e27f99a24d74f9ceac312a8b" target="6a9a7531bfee5a879eeb5986a37c3f1c"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="dd31717977924be83b056b20f8cc2c1f"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="9de8dd9c8a465615892e171c1e79d125" target="b707cd33574fba4236a86b641d5fc1e3"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="8582e800b3232888cf05dfe96768da92" target="400ac6087cfe253e910c6362332613c5"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="2fce722d5cd345be4f9c7121ef7bf964"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="4a4788c1dfc396b1f86355b274cc26b3" target="319679ba0a13c2787ac7314633f37a35"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="b43e1ff406a4f9b03ea4b22c3d3703f9" target="b43e1ff406a4f9b03ea4b22c3d3703f9"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20140616</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="d1063af181fe606e55ed93dd5b867169"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="9b145da3063daa5613b934a57a84c65a"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="14dd5266c70789bdc806364df4586335" target="95093b1e69e4eb7ba6d15ee439dbb9cb"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="0f7c74c3f3c8115a4054d3764d5e2d43" target="b75f4043809ab7a1229fe32ea2585372"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="fef7f305e27f99a24d74f9ceac312a8b" target="d9c7c7c057a4aa38140147da4bb10d21"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="657b8ef8afbb84fe2ada5a67df56ac41"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="8284110eb276ebbb45b9ef38ab01372c" target="9ef369fb39a867b2bd3dd6272e35520f"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20150306</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="3f9671e9d19aff5acaba23ac16f5d45a"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="f9c6f1f0e70a21fd1375390ccb0198de"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="cf381e2499830a9832dc59f5b6b490ad"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="9de8dd9c8a465615892e171c1e79d125" target="843007c77b878f3e022f0e02a161856c"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="5aae135e15ebfbd4be088c37a247b904"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="9de8dd9c8a465615892e171c1e79d125" target="f7fc72d1ff918043d45767e1ec17b691"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="2362032663cc1e5e15616caf73cc37a1"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20150814</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="14dd5266c70789bdc806364df4586335"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20160722</data>
+</edge>
+<edge source="71a700ab37d86fde87e73626c854c4d9" target="7d52fcdeed5b5a483603b4be5c45a2df"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20160128</data>
+</edge>
+<edge source="843007c77b878f3e022f0e02a161856c" target="e57e3bf83ed5ce9869f3f26ffc0e50e2"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20160127</data>
+</edge>
+<edge source="e51f104be35a794c7e58ee1b94c17dd3" target="0dd2653ce79c7e1fd74d6dc73e1339e4"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20150814</data>
+</edge>
+</graph>
+</graphml>

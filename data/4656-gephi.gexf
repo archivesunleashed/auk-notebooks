@@ -6,13 +6,11 @@
          http://www.gexf.net/1.2draft/gexf.xsd"
          version="1.2">
 <!-- Created by igraph -->
-<meta lastmodifieddate="Thu Jan 31 16:26:22">
+<meta lastmodifieddate="Thu Feb 21 10:43:43">
 <creator>Graphpass filtering using Igraph by Archives Unleashed</creator>
 <description> A Filtered Derivative Graph</description>
 </meta>
   <graph id="G" defaultedgetype="directed">
-  <attributes class="graph">
-  </attributes>
   <attributes class="node">
   <attribute id="v_label" title="label" type="string"></attribute>
   <attribute id="v_id" title="id" type="string"></attribute>
@@ -40,12 +38,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-914.648" />
-      <attvalue for="v_y" value="308.49" />
+      <attvalue for="v_x" value="131.916" />
+      <attvalue for="v_y" value="-3874.9" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="308.489573" x="-914.647709" z="0.0"></viz:position>
+      <viz:position y="-3874.900899" x="131.916169" z="0.0"></viz:position>
     </node>
     <node id="n1" label="thegoldenstar.net">
     <attvalues>
@@ -57,12 +55,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1570.17" />
-      <attvalue for="v_y" value="-477.44" />
+      <attvalue for="v_x" value="-270.985" />
+      <attvalue for="v_y" value="-2937" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-477.440091" x="-1570.169931" z="0.0"></viz:position>
+      <viz:position y="-2936.998223" x="-270.985125" z="0.0"></viz:position>
     </node>
     <node id="n2" label="clearwatertimes.com">
     <attvalues>
@@ -74,12 +72,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1205.61" />
-      <attvalue for="v_y" value="-265.091" />
+      <attvalue for="v_x" value="383.169" />
+      <attvalue for="v_y" value="-2312.75" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-265.090968" x="-1205.606614" z="0.0"></viz:position>
+      <viz:position y="-2312.751422" x="383.169202" z="0.0"></viz:position>
     </node>
     <node id="n3" label="accounts.google.com">
     <attvalues>
@@ -91,12 +89,12 @@
       <attvalue for="v_g" value="35" />
       <attvalue for="v_b" value="217" />
       <attvalue for="v_size" value="41.3186" />
-      <attvalue for="v_x" value="-1631.98" />
-      <attvalue for="v_y" value="-1140.33" />
+      <attvalue for="v_x" value="1210.9" />
+      <attvalue for="v_y" value="-3337.61" />
     </attvalues>
       <viz:color r="123" g="35" b="217"></viz:color>
       <viz:size value="41.318562"></viz:size>
-      <viz:position y="-1140.327973" x="-1631.984550" z="0.0"></viz:position>
+      <viz:position y="-3337.612264" x="1210.895456" z="0.0"></viz:position>
     </node>
     <node id="n4" label="blackpressused.ca">
     <attvalues>
@@ -108,12 +106,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-744.634" />
-      <attvalue for="v_y" value="-1056.93" />
+      <attvalue for="v_x" value="1007.1" />
+      <attvalue for="v_y" value="-2546.36" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-1056.932270" x="-744.633946" z="0.0"></viz:position>
+      <viz:position y="-2546.364935" x="1007.101107" z="0.0"></viz:position>
     </node>
     <node id="n5" label="theguardian.com">
     <attvalues>
@@ -125,12 +123,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1071.55" />
-      <attvalue for="v_y" value="-1225.48" />
+      <attvalue for="v_x" value="596.342" />
+      <attvalue for="v_y" value="-2357.34" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1225.480536" x="-1071.549023" z="0.0"></viz:position>
+      <viz:position y="-2357.343170" x="596.341879" z="0.0"></viz:position>
     </node>
     <node id="n6" label="tyeesolutions.org">
     <attvalues>
@@ -142,12 +140,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1668.43" />
-      <attvalue for="v_y" value="376.625" />
+      <attvalue for="v_x" value="623.846" />
+      <attvalue for="v_y" value="-3670.4" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="376.624808" x="-1668.432683" z="0.0"></viz:position>
+      <viz:position y="-3670.404795" x="623.846454" z="0.0"></viz:position>
     </node>
     <node id="n7" label="livijoymakes.tumblr.com">
     <attvalues>
@@ -159,12 +157,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-2182.77" />
-      <attvalue for="v_y" value="-1129.81" />
+      <attvalue for="v_x" value="106.676" />
+      <attvalue for="v_y" value="-3758.58" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="-1129.805907" x="-2182.772282" z="0.0"></viz:position>
+      <viz:position y="-3758.583158" x="106.675706" z="0.0"></viz:position>
     </node>
     <node id="n8" label="image.issuu.com">
     <attvalues>
@@ -176,12 +174,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="29.4359" />
-      <attvalue for="v_x" value="-865.016" />
-      <attvalue for="v_y" value="-1044.53" />
+      <attvalue for="v_x" value="974.285" />
+      <attvalue for="v_y" value="-2784.59" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="29.435937"></viz:size>
-      <viz:position y="-1044.527245" x="-865.016254" z="0.0"></viz:position>
+      <viz:position y="-2784.587506" x="974.284623" z="0.0"></viz:position>
     </node>
     <node id="n9" label="kelownacapnews.com">
     <attvalues>
@@ -193,12 +191,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="29.4359" />
-      <attvalue for="v_x" value="-951.944" />
-      <attvalue for="v_y" value="-875.204" />
+      <attvalue for="v_x" value="407.018" />
+      <attvalue for="v_y" value="-2470.02" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="29.435937"></viz:size>
-      <viz:position y="-875.203821" x="-951.943695" z="0.0"></viz:position>
+      <viz:position y="-2470.016044" x="407.017676" z="0.0"></viz:position>
     </node>
     <node id="n10" label="peacearchnews.com">
     <attvalues>
@@ -210,12 +208,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-996.721" />
-      <attvalue for="v_y" value="-25.3158" />
+      <attvalue for="v_x" value="32.741" />
+      <attvalue for="v_y" value="-2980.74" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-25.315764" x="-996.721048" z="0.0"></viz:position>
+      <viz:position y="-2980.735048" x="32.741021" z="0.0"></viz:position>
     </node>
     <node id="n11" label="pqbnews.com">
     <attvalues>
@@ -227,12 +225,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-801.776" />
-      <attvalue for="v_y" value="55.8882" />
+      <attvalue for="v_x" value="-76.084" />
+      <attvalue for="v_y" value="-2692.85" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="55.888160" x="-801.775994" z="0.0"></viz:position>
+      <viz:position y="-2692.850793" x="-76.083967" z="0.0"></viz:position>
     </node>
     <node id="n12" label="subscription.time.com">
     <attvalues>
@@ -244,12 +242,12 @@
       <attvalue for="v_g" value="150" />
       <attvalue for="v_b" value="120" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2179.33" />
-      <attvalue for="v_y" value="-878.562" />
+      <attvalue for="v_x" value="161.286" />
+      <attvalue for="v_y" value="-3990.33" />
     </attvalues>
       <viz:color r="217" g="150" b="120"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-878.562025" x="-2179.334584" z="0.0"></viz:position>
+      <viz:position y="-3990.327413" x="161.285747" z="0.0"></viz:position>
     </node>
     <node id="n13" label="goldstreamgazette.com">
     <attvalues>
@@ -261,12 +259,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1263.82" />
-      <attvalue for="v_y" value="83.0183" />
+      <attvalue for="v_x" value="-212.781" />
+      <attvalue for="v_y" value="-3080.83" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="83.018314" x="-1263.819430" z="0.0"></viz:position>
+      <viz:position y="-3080.829615" x="-212.781175" z="0.0"></viz:position>
     </node>
     <node id="n14" label="hallierosetaylor.tumblr.com">
     <attvalues>
@@ -278,12 +276,12 @@
       <attvalue for="v_g" value="80" />
       <attvalue for="v_b" value="35" />
       <attvalue for="v_size" value="29.4359" />
-      <attvalue for="v_x" value="-791.777" />
-      <attvalue for="v_y" value="-59.6495" />
+      <attvalue for="v_x" value="157.923" />
+      <attvalue for="v_y" value="-3610.65" />
     </attvalues>
       <viz:color r="217" g="80" b="35"></viz:color>
       <viz:size value="29.435937"></viz:size>
-      <viz:position y="-59.649486" x="-791.777220" z="0.0"></viz:position>
+      <viz:position y="-3610.647681" x="157.922987" z="0.0"></viz:position>
     </node>
     <node id="n15" label="accuweather.com">
     <attvalues>
@@ -295,12 +293,12 @@
       <attvalue for="v_g" value="189" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1757.19" />
-      <attvalue for="v_y" value="302.71" />
+      <attvalue for="v_x" value="-322.883" />
+      <attvalue for="v_y" value="-3650.53" />
     </attvalues>
       <viz:color r="120" g="189" b="219"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="302.710287" x="-1757.194975" z="0.0"></viz:position>
+      <viz:position y="-3650.534885" x="-322.882937" z="0.0"></viz:position>
     </node>
     <node id="n16" label="terracestandard.com">
     <attvalues>
@@ -312,12 +310,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1711.32" />
-      <attvalue for="v_y" value="-725.922" />
+      <attvalue for="v_x" value="28.0795" />
+      <attvalue for="v_y" value="-3110.85" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-725.921957" x="-1711.318980" z="0.0"></viz:position>
+      <viz:position y="-3110.850789" x="28.079509" z="0.0"></viz:position>
     </node>
     <node id="n17" label="oipc.bc.ca">
     <attvalues>
@@ -329,12 +327,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1128.18" />
-      <attvalue for="v_y" value="-1311.07" />
+      <attvalue for="v_x" value="1258.48" />
+      <attvalue for="v_y" value="-2507.79" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1311.071866" x="-1128.175679" z="0.0"></viz:position>
+      <viz:position y="-2507.787724" x="1258.484090" z="0.0"></viz:position>
     </node>
     <node id="n18" label="westerlynews.ca">
     <attvalues>
@@ -346,12 +344,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-658.112" />
-      <attvalue for="v_y" value="32.4483" />
+      <attvalue for="v_x" value="-181.143" />
+      <attvalue for="v_y" value="-2650.5" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="32.448285" x="-658.112451" z="0.0"></viz:position>
+      <viz:position y="-2650.495787" x="-181.142904" z="0.0"></viz:position>
     </node>
     <node id="n19" label="myspace.com">
     <attvalues>
@@ -363,12 +361,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2264.51" />
-      <attvalue for="v_y" value="-590.62" />
+      <attvalue for="v_x" value="1051" />
+      <attvalue for="v_y" value="-4088.71" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-590.619770" x="-2264.505179" z="0.0"></viz:position>
+      <viz:position y="-4088.712734" x="1051.003521" z="0.0"></viz:position>
     </node>
     <node id="n20" label="maps.google.com">
     <attvalues>
@@ -380,12 +378,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1839.15" />
-      <attvalue for="v_y" value="407.048" />
+      <attvalue for="v_x" value="760.726" />
+      <attvalue for="v_y" value="-3710.38" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="407.048181" x="-1839.150362" z="0.0"></viz:position>
+      <viz:position y="-3710.381277" x="760.726406" z="0.0"></viz:position>
     </node>
     <node id="n21" label="janinebandcroft.ca">
     <attvalues>
@@ -397,12 +395,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="59" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1925.32" />
-      <attvalue for="v_y" value="335.232" />
+      <attvalue for="v_x" value="1653.07" />
+      <attvalue for="v_y" value="-3340.6" />
     </attvalues>
       <viz:color r="67" g="217" b="59"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="335.232457" x="-1925.324739" z="0.0"></viz:position>
+      <viz:position y="-3340.597722" x="1653.066911" z="0.0"></viz:position>
     </node>
     <node id="n22" label="usednanaimo.com">
     <attvalues>
@@ -414,12 +412,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="34.1741" />
-      <attvalue for="v_x" value="-1075.23" />
-      <attvalue for="v_y" value="-874.512" />
+      <attvalue for="v_x" value="699.804" />
+      <attvalue for="v_y" value="-2564.43" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="34.174065"></viz:size>
-      <viz:position y="-874.511797" x="-1075.227726" z="0.0"></viz:position>
+      <viz:position y="-2564.433625" x="699.803885" z="0.0"></viz:position>
     </node>
     <node id="n23" label="help.issuu.com">
     <attvalues>
@@ -431,12 +429,12 @@
       <attvalue for="v_g" value="35" />
       <attvalue for="v_b" value="217" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1585.35" />
-      <attvalue for="v_y" value="-1396.15" />
+      <attvalue for="v_x" value="1418.51" />
+      <attvalue for="v_y" value="-2736.01" />
     </attvalues>
       <viz:color r="123" g="35" b="217"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-1396.150998" x="-1585.353468" z="0.0"></viz:position>
+      <viz:position y="-2736.009790" x="1418.507380" z="0.0"></viz:position>
     </node>
     <node id="n24" label="janinebandcroft.blogspot.com">
     <attvalues>
@@ -448,12 +446,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="59" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2066.06" />
-      <attvalue for="v_y" value="382.101" />
+      <attvalue for="v_x" value="1657.36" />
+      <attvalue for="v_y" value="-3462.36" />
     </attvalues>
       <viz:color r="67" g="217" b="59"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="382.100955" x="-2066.055773" z="0.0"></viz:position>
+      <viz:position y="-3462.355840" x="1657.355641" z="0.0"></viz:position>
     </node>
     <node id="n25" label="voicesofthestreet.eventbrite.com">
     <attvalues>
@@ -465,12 +463,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1974.28" />
-      <attvalue for="v_y" value="107.388" />
+      <attvalue for="v_x" value="738.727" />
+      <attvalue for="v_y" value="-3555.43" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="107.387645" x="-1974.283859" z="0.0"></viz:position>
+      <viz:position y="-3555.434192" x="738.727084" z="0.0"></viz:position>
     </node>
     <node id="n26" label="relativenewz.ca">
     <attvalues>
@@ -482,12 +480,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="59" />
       <attvalue for="v_size" value="34.1741" />
-      <attvalue for="v_x" value="-1760.97" />
-      <attvalue for="v_y" value="502.914" />
+      <attvalue for="v_x" value="1635.17" />
+      <attvalue for="v_y" value="-3094.16" />
     </attvalues>
       <viz:color r="67" g="217" b="59"></viz:color>
       <viz:size value="34.174065"></viz:size>
-      <viz:position y="502.914481" x="-1760.969429" z="0.0"></viz:position>
+      <viz:position y="-3094.160895" x="1635.173478" z="0.0"></viz:position>
     </node>
     <node id="n27" label="thenownewspaper.com">
     <attvalues>
@@ -499,12 +497,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1640.6" />
-      <attvalue for="v_y" value="-338.49" />
+      <attvalue for="v_x" value="644.388" />
+      <attvalue for="v_y" value="-3181.8" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-338.489649" x="-1640.598754" z="0.0"></viz:position>
+      <viz:position y="-3181.795837" x="644.387556" z="0.0"></viz:position>
     </node>
     <node id="n28" label="cctvnews.tumblr.com">
     <attvalues>
@@ -516,12 +514,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-1184.92" />
-      <attvalue for="v_y" value="418.156" />
+      <attvalue for="v_x" value="-27.7986" />
+      <attvalue for="v_y" value="-3713.23" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="418.155630" x="-1184.920807" z="0.0"></viz:position>
+      <viz:position y="-3713.226301" x="-27.798591" z="0.0"></viz:position>
     </node>
     <node id="n29" label="megaphone.nationbuilder.com">
     <attvalues>
@@ -533,12 +531,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2078.91" />
-      <attvalue for="v_y" value="59.0135" />
+      <attvalue for="v_x" value="350.695" />
+      <attvalue for="v_y" value="-3706.69" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="59.013495" x="-2078.912776" z="0.0"></viz:position>
+      <viz:position y="-3706.692354" x="350.694549" z="0.0"></viz:position>
     </node>
     <node id="n30" label="kimberleybulletin.com">
     <attvalues>
@@ -550,12 +548,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1366.29" />
-      <attvalue for="v_y" value="-1199.38" />
+      <attvalue for="v_x" value="976.631" />
+      <attvalue for="v_y" value="-3048.65" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1199.382904" x="-1366.289946" z="0.0"></viz:position>
+      <viz:position y="-3048.647721" x="976.631178" z="0.0"></viz:position>
     </node>
     <node id="n31" label="homes.ohio.com">
     <attvalues>
@@ -567,12 +565,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-542.847" />
-      <attvalue for="v_y" value="-848.991" />
+      <attvalue for="v_x" value="1149.09" />
+      <attvalue for="v_y" value="-2682.46" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-848.990500" x="-542.847329" z="0.0"></viz:position>
+      <viz:position y="-2682.455395" x="1149.086287" z="0.0"></viz:position>
     </node>
     <node id="n32" label="youtube.com">
     <attvalues>
@@ -584,12 +582,12 @@
       <attvalue for="v_g" value="35" />
       <attvalue for="v_b" value="217" />
       <attvalue for="v_size" value="52.7634" />
-      <attvalue for="v_x" value="-1488.25" />
-      <attvalue for="v_y" value="-912.961" />
+      <attvalue for="v_x" value="961.485" />
+      <attvalue for="v_y" value="-3205.23" />
     </attvalues>
       <viz:color r="123" g="35" b="217"></viz:color>
       <viz:size value="52.763366"></viz:size>
-      <viz:position y="-912.961425" x="-1488.250952" z="0.0"></viz:position>
+      <viz:position y="-3205.229118" x="961.485338" z="0.0"></viz:position>
     </node>
     <node id="n33" label="hitrecord.tumblr.com">
     <attvalues>
@@ -601,12 +599,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="180" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1164.04" />
-      <attvalue for="v_y" value="553.137" />
+      <attvalue for="v_x" value="-344.367" />
+      <attvalue for="v_y" value="-3305.67" />
     </attvalues>
       <viz:color r="120" g="219" b="180"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="553.137347" x="-1164.040761" z="0.0"></viz:position>
+      <viz:position y="-3305.674522" x="-344.366737" z="0.0"></viz:position>
     </node>
     <node id="n34" label="d3n8a8pro7vhmx.cloudfront.net">
     <attvalues>
@@ -618,12 +616,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1402.08" />
-      <attvalue for="v_y" value="296.078" />
+      <attvalue for="v_x" value="1471.05" />
+      <attvalue for="v_y" value="-3802.24" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="296.078184" x="-1402.080979" z="0.0"></viz:position>
+      <viz:position y="-3802.236799" x="1471.046045" z="0.0"></viz:position>
     </node>
     <node id="n35" label="cloverdalereporter.com">
     <attvalues>
@@ -635,12 +633,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1634.62" />
-      <attvalue for="v_y" value="-945.907" />
+      <attvalue for="v_x" value="-76.2044" />
+      <attvalue for="v_y" value="-3350.48" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-945.907272" x="-1634.622642" z="0.0"></viz:position>
+      <viz:position y="-3350.477421" x="-76.204403" z="0.0"></viz:position>
     </node>
     <node id="n36" label="nytimes.com">
     <attvalues>
@@ -652,12 +650,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1204.62" />
-      <attvalue for="v_y" value="-1022.73" />
+      <attvalue for="v_x" value="860.896" />
+      <attvalue for="v_y" value="-2789.69" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1022.727860" x="-1204.621113" z="0.0"></viz:position>
+      <viz:position y="-2789.690282" x="860.895650" z="0.0"></viz:position>
     </node>
     <node id="n37" label="get.adobe.com">
     <attvalues>
@@ -669,12 +667,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="29.4359" />
-      <attvalue for="v_x" value="-835.245" />
-      <attvalue for="v_y" value="-829.047" />
+      <attvalue for="v_x" value="859.649" />
+      <attvalue for="v_y" value="-2929.61" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="29.435937"></viz:size>
-      <viz:position y="-829.046760" x="-835.245204" z="0.0"></viz:position>
+      <viz:position y="-2929.611223" x="859.648697" z="0.0"></viz:position>
     </node>
     <node id="n38" label="thedependent.ca">
     <attvalues>
@@ -686,12 +684,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1628.99" />
-      <attvalue for="v_y" value="195.092" />
+      <attvalue for="v_x" value="507.14" />
+      <attvalue for="v_y" value="-3612.65" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="195.092107" x="-1628.994905" z="0.0"></viz:position>
+      <viz:position y="-3612.651343" x="507.139822" z="0.0"></viz:position>
     </node>
     <node id="n39" label="canadahelps.org">
     <attvalues>
@@ -703,12 +701,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1458.96" />
-      <attvalue for="v_y" value="399.98" />
+      <attvalue for="v_x" value="1162.28" />
+      <attvalue for="v_y" value="-4016.96" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="399.979649" x="-1458.958923" z="0.0"></viz:position>
+      <viz:position y="-4016.957610" x="1162.277553" z="0.0"></viz:position>
     </node>
     <node id="n40" label="en.wikipedia.org">
     <attvalues>
@@ -720,12 +718,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2288.93" />
-      <attvalue for="v_y" value="-387.597" />
+      <attvalue for="v_x" value="620.723" />
+      <attvalue for="v_y" value="-4289.2" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-387.597037" x="-2288.933236" z="0.0"></viz:position>
+      <viz:position y="-4289.199456" x="620.722842" z="0.0"></viz:position>
     </node>
     <node id="n41" label="jameshance.tumblr.com">
     <attvalues>
@@ -737,12 +735,12 @@
       <attvalue for="v_g" value="80" />
       <attvalue for="v_b" value="35" />
       <attvalue for="v_size" value="38.0454" />
-      <attvalue for="v_x" value="-608.34" />
-      <attvalue for="v_y" value="-189.508" />
+      <attvalue for="v_x" value="3.46993" />
+      <attvalue for="v_y" value="-3215.91" />
     </attvalues>
       <viz:color r="217" g="80" b="35"></viz:color>
       <viz:size value="38.045397"></viz:size>
-      <viz:position y="-189.507846" x="-608.340171" z="0.0"></viz:position>
+      <viz:position y="-3215.906471" x="3.469932" z="0.0"></viz:position>
     </node>
     <node id="n42" label="nanaimodailynews.com">
     <attvalues>
@@ -754,12 +752,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="100" />
-      <attvalue for="v_x" value="-983.68" />
-      <attvalue for="v_y" value="-720.678" />
+      <attvalue for="v_x" value="677.642" />
+      <attvalue for="v_y" value="-2780.48" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="100.000000"></viz:size>
-      <viz:position y="-720.677884" x="-983.679969" z="0.0"></viz:position>
+      <viz:position y="-2780.481303" x="677.641620" z="0.0"></viz:position>
     </node>
     <node id="n43" label="bitly.com">
     <attvalues>
@@ -771,12 +769,12 @@
       <attvalue for="v_g" value="80" />
       <attvalue for="v_b" value="35" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-467.167" />
-      <attvalue for="v_y" value="11.0623" />
+      <attvalue for="v_x" value="-218.287" />
+      <attvalue for="v_y" value="-3239.38" />
     </attvalues>
       <viz:color r="217" g="80" b="35"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="11.062341" x="-467.166783" z="0.0"></viz:position>
+      <viz:position y="-3239.379286" x="-218.287370" z="0.0"></viz:position>
     </node>
     <node id="n44" label="vancouversun.com">
     <attvalues>
@@ -788,12 +786,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2110.05" />
-      <attvalue for="v_y" value="-113.283" />
+      <attvalue for="v_x" value="1018.03" />
+      <attvalue for="v_y" value="-3946.22" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-113.282746" x="-2110.054497" z="0.0"></viz:position>
+      <viz:position y="-3946.223291" x="1018.032113" z="0.0"></viz:position>
     </node>
     <node id="n45" label="pacegallery.tumblr.com">
     <attvalues>
@@ -805,12 +803,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1699.78" />
-      <attvalue for="v_y" value="-1371.82" />
+      <attvalue for="v_x" value="-248.098" />
+      <attvalue for="v_y" value="-3832.65" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1371.824218" x="-1699.782387" z="0.0"></viz:position>
+      <viz:position y="-3832.651919" x="-248.097982" z="0.0"></viz:position>
     </node>
     <node id="n46" label="nelsonstar.com">
     <attvalues>
@@ -822,12 +820,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="29.4359" />
-      <attvalue for="v_x" value="-1379.93" />
-      <attvalue for="v_y" value="-629.968" />
+      <attvalue for="v_x" value="213.489" />
+      <attvalue for="v_y" value="-2793.72" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="29.435937"></viz:size>
-      <viz:position y="-629.968270" x="-1379.932460" z="0.0"></viz:position>
+      <viz:position y="-2793.717977" x="213.488932" z="0.0"></viz:position>
     </node>
     <node id="n47" label="adequateman.deadspin.com">
     <attvalues>
@@ -839,12 +837,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1306.51" />
-      <attvalue for="v_y" value="482.086" />
+      <attvalue for="v_x" value="1517.29" />
+      <attvalue for="v_y" value="-2979.42" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="482.085896" x="-1306.505055" z="0.0"></viz:position>
+      <viz:position y="-2979.418826" x="1517.286970" z="0.0"></viz:position>
     </node>
     <node id="n48" label="news1130.com">
     <attvalues>
@@ -856,12 +854,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2301.09" />
-      <attvalue for="v_y" value="37.0452" />
+      <attvalue for="v_x" value="321.107" />
+      <attvalue for="v_y" value="-3880.23" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="37.045231" x="-2301.089374" z="0.0"></viz:position>
+      <viz:position y="-3880.227328" x="321.106775" z="0.0"></viz:position>
     </node>
     <node id="n49" label="hitrecord.org">
     <attvalues>
@@ -873,12 +871,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="180" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-848.269" />
-      <attvalue for="v_y" value="455.71" />
+      <attvalue for="v_x" value="-403.903" />
+      <attvalue for="v_y" value="-3397.99" />
     </attvalues>
       <viz:color r="120" g="219" b="180"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="455.709942" x="-848.269347" z="0.0"></viz:position>
+      <viz:position y="-3397.994787" x="-403.902702" z="0.0"></viz:position>
     </node>
     <node id="n50" label="metronews.ca">
     <attvalues>
@@ -890,12 +888,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1993.63" />
-      <attvalue for="v_y" value="-437.603" />
+      <attvalue for="v_x" value="1194.96" />
+      <attvalue for="v_y" value="-3556" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-437.602892" x="-1993.629390" z="0.0"></viz:position>
+      <viz:position y="-3555.998178" x="1194.959831" z="0.0"></viz:position>
     </node>
     <node id="n51" label="t.co">
     <attvalues>
@@ -907,12 +905,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="29.4359" />
-      <attvalue for="v_x" value="-1231.05" />
-      <attvalue for="v_y" value="-149.828" />
+      <attvalue for="v_x" value="574.604" />
+      <attvalue for="v_y" value="-3417.33" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="29.435937"></viz:size>
-      <viz:position y="-149.827847" x="-1231.045863" z="0.0"></viz:position>
+      <viz:position y="-3417.328910" x="574.603859" z="0.0"></viz:position>
     </node>
     <node id="n52" label="surreyleader.com">
     <attvalues>
@@ -924,12 +922,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="29.4359" />
-      <attvalue for="v_x" value="-1102.09" />
-      <attvalue for="v_y" value="-578.824" />
+      <attvalue for="v_x" value="452.33" />
+      <attvalue for="v_y" value="-2568.67" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="29.435937"></viz:size>
-      <viz:position y="-578.823950" x="-1102.094633" z="0.0"></viz:position>
+      <viz:position y="-2568.674674" x="452.330113" z="0.0"></viz:position>
     </node>
     <node id="n53" label="wgsn.tumblr.com">
     <attvalues>
@@ -941,12 +939,12 @@
       <attvalue for="v_g" value="80" />
       <attvalue for="v_b" value="35" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-462.632" />
-      <attvalue for="v_y" value="-148.77" />
+      <attvalue for="v_x" value="130.6" />
+      <attvalue for="v_y" value="-3458.96" />
     </attvalues>
       <viz:color r="217" g="80" b="35"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-148.770007" x="-462.631974" z="0.0"></viz:position>
+      <viz:position y="-3458.959763" x="130.599960" z="0.0"></viz:position>
     </node>
     <node id="n54" label="street-papers.org">
     <attvalues>
@@ -958,12 +956,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2365.8" />
-      <attvalue for="v_y" value="-95.648" />
+      <attvalue for="v_x" value="909.334" />
+      <attvalue for="v_y" value="-4248.19" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-95.648027" x="-2365.796934" z="0.0"></viz:position>
+      <viz:position y="-4248.194003" x="909.334195" z="0.0"></viz:position>
     </node>
     <node id="n55" label="greenparty.ca">
     <attvalues>
@@ -975,12 +973,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1179.19" />
-      <attvalue for="v_y" value="-1395.09" />
+      <attvalue for="v_x" value="832.785" />
+      <attvalue for="v_y" value="-3120.36" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1395.094810" x="-1179.192462" z="0.0"></viz:position>
+      <viz:position y="-3120.358589" x="832.785196" z="0.0"></viz:position>
     </node>
     <node id="n56" label="rottentomatoes.com">
     <attvalues>
@@ -992,12 +990,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-628.213" />
-      <attvalue for="v_y" value="-1087.38" />
+      <attvalue for="v_x" value="74.2717" />
+      <attvalue for="v_y" value="-2677.58" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1087.380498" x="-628.213231" z="0.0"></viz:position>
+      <viz:position y="-2677.584821" x="74.271671" z="0.0"></viz:position>
     </node>
     <node id="n57" label="bclocalnews.com">
     <attvalues>
@@ -1009,12 +1007,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="80.8289" />
-      <attvalue for="v_x" value="-1153.15" />
-      <attvalue for="v_y" value="-415.253" />
+      <attvalue for="v_x" value="223.351" />
+      <attvalue for="v_y" value="-2924.12" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="80.828922"></viz:size>
-      <viz:position y="-415.252629" x="-1153.150849" z="0.0"></viz:position>
+      <viz:position y="-2924.119503" x="223.350777" z="0.0"></viz:position>
     </node>
     <node id="n58" label="hitrecordjoe.tumblr.com">
     <attvalues>
@@ -1026,12 +1024,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="180" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1017.45" />
-      <attvalue for="v_y" value="448.763" />
+      <attvalue for="v_x" value="-243.311" />
+      <attvalue for="v_y" value="-3431.78" />
     </attvalues>
       <viz:color r="120" g="219" b="180"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="448.763435" x="-1017.452286" z="0.0"></viz:position>
+      <viz:position y="-3431.780156" x="-243.310810" z="0.0"></viz:position>
     </node>
     <node id="n59" label="comoxvalleyrecord.com">
     <attvalues>
@@ -1043,12 +1041,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1472.58" />
-      <attvalue for="v_y" value="-756.614" />
+      <attvalue for="v_x" value="150.337" />
+      <attvalue for="v_y" value="-3176.88" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-756.614334" x="-1472.583736" z="0.0"></viz:position>
+      <viz:position y="-3176.878558" x="150.336937" z="0.0"></viz:position>
     </node>
     <node id="n60" label="pacegallery.com">
     <attvalues>
@@ -1060,12 +1058,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1784.41" />
-      <attvalue for="v_y" value="-1243.14" />
+      <attvalue for="v_x" value="-11.4599" />
+      <attvalue for="v_y" value="-3909.25" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1243.141445" x="-1784.413277" z="0.0"></viz:position>
+      <viz:position y="-3909.245903" x="-11.459935" z="0.0"></viz:position>
     </node>
     <node id="n61" label="dailytownsman.com">
     <attvalues>
@@ -1077,12 +1075,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1695.51" />
-      <attvalue for="v_y" value="-569.222" />
+      <attvalue for="v_x" value="-117.368" />
+      <attvalue for="v_y" value="-2892.8" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-569.221845" x="-1695.509761" z="0.0"></viz:position>
+      <viz:position y="-2892.804158" x="-117.367988" z="0.0"></viz:position>
     </node>
     <node id="n62" label="behindthescenes.thecoveteur.com">
     <attvalues>
@@ -1094,12 +1092,12 @@
       <attvalue for="v_g" value="120" />
       <attvalue for="v_b" value="189" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-408.918" />
-      <attvalue for="v_y" value="-757.644" />
+      <attvalue for="v_x" value="-117.112" />
+      <attvalue for="v_y" value="-3801.96" />
     </attvalues>
       <viz:color r="217" g="120" b="189"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-757.643654" x="-408.917910" z="0.0"></viz:position>
+      <viz:position y="-3801.955841" x="-117.111871" z="0.0"></viz:position>
     </node>
     <node id="n63" label="trailtimes.ca">
     <attvalues>
@@ -1111,12 +1109,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-696.491" />
-      <attvalue for="v_y" value="-138.136" />
+      <attvalue for="v_x" value="1152.86" />
+      <attvalue for="v_y" value="-2492.69" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-138.135504" x="-696.490825" z="0.0"></viz:position>
+      <viz:position y="-2492.685704" x="1152.856691" z="0.0"></viz:position>
     </node>
     <node id="n64" label="flickr.com">
     <attvalues>
@@ -1128,12 +1126,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2028.43" />
-      <attvalue for="v_y" value="225.561" />
+      <attvalue for="v_x" value="927.945" />
+      <attvalue for="v_y" value="-4057.23" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="225.561162" x="-2028.425667" z="0.0"></viz:position>
+      <viz:position y="-4057.226239" x="927.945256" z="0.0"></viz:position>
     </node>
     <node id="n65" label="saanichnews.com">
     <attvalues>
@@ -1145,12 +1143,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1571.24" />
-      <attvalue for="v_y" value="-628.117" />
+      <attvalue for="v_x" value="292.49" />
+      <attvalue for="v_y" value="-3356.99" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-628.117414" x="-1571.235950" z="0.0"></viz:position>
+      <viz:position y="-3356.990414" x="292.489681" z="0.0"></viz:position>
     </node>
     <node id="n66" label="mapleridgenews.com">
     <attvalues>
@@ -1162,12 +1160,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-716.605" />
-      <attvalue for="v_y" value="155.028" />
+      <attvalue for="v_x" value="6.25863" />
+      <attvalue for="v_y" value="-3417.61" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="155.027729" x="-716.605371" z="0.0"></viz:position>
+      <viz:position y="-3417.611460" x="6.258635" z="0.0"></viz:position>
     </node>
     <node id="n67" label="webpapersadmin.blackpress.ca">
     <attvalues>
@@ -1179,12 +1177,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-482.072" />
-      <attvalue for="v_y" value="-407.183" />
+      <attvalue for="v_x" value="1110.57" />
+      <attvalue for="v_y" value="-2364.4" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-407.182870" x="-482.072327" z="0.0"></viz:position>
+      <viz:position y="-2364.401712" x="1110.570475" z="0.0"></viz:position>
     </node>
     <node id="n68" label="ohio.com">
     <attvalues>
@@ -1196,12 +1194,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1161.58" />
-      <attvalue for="v_y" value="260.976" />
+      <attvalue for="v_x" value="601.522" />
+      <attvalue for="v_y" value="-2225.73" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="260.975638" x="-1161.583183" z="0.0"></viz:position>
+      <viz:position y="-2225.730232" x="601.522354" z="0.0"></viz:position>
     </node>
     <node id="n69" label="lowerislandnews.wordpress.com">
     <attvalues>
@@ -1213,12 +1211,12 @@
       <attvalue for="v_g" value="59" />
       <attvalue for="v_b" value="147" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-2092.46" />
-      <attvalue for="v_y" value="-1010.11" />
+      <attvalue for="v_x" value="1483.62" />
+      <attvalue for="v_y" value="-3135.44" />
     </attvalues>
       <viz:color r="219" g="59" b="147"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-1010.110487" x="-2092.458165" z="0.0"></viz:position>
+      <viz:position y="-3135.443293" x="1483.616271" z="0.0"></viz:position>
     </node>
     <node id="n70" label="blackpress.ca">
     <attvalues>
@@ -1230,12 +1228,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="48.892" />
-      <attvalue for="v_x" value="-1014.49" />
-      <attvalue for="v_y" value="-196.863" />
+      <attvalue for="v_x" value="349.558" />
+      <attvalue for="v_y" value="-2593.01" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="48.892034"></viz:size>
-      <viz:position y="-196.863095" x="-1014.487985" z="0.0"></viz:position>
+      <viz:position y="-2593.011018" x="349.558215" z="0.0"></viz:position>
     </node>
     <node id="n71" label="wnyctransmitter.tumblr.com">
     <attvalues>
@@ -1247,12 +1245,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-2321.13" />
-      <attvalue for="v_y" value="-790.835" />
+      <attvalue for="v_x" value="-205.108" />
+      <attvalue for="v_y" value="-3702.52" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="-790.834657" x="-2321.127503" z="0.0"></viz:position>
+      <viz:position y="-3702.515462" x="-205.107998" z="0.0"></viz:position>
     </node>
     <node id="n72" label="nanaimobulletin.com">
     <attvalues>
@@ -1264,12 +1262,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1471.94" />
-      <attvalue for="v_y" value="-113.245" />
+      <attvalue for="v_x" value="-113.988" />
+      <attvalue for="v_y" value="-3022.47" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-113.244779" x="-1471.938146" z="0.0"></viz:position>
+      <viz:position y="-3022.467684" x="-113.988455" z="0.0"></viz:position>
     </node>
     <node id="n73" label="crestonvalleyadvance.ca">
     <attvalues>
@@ -1281,12 +1279,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1265.31" />
-      <attvalue for="v_y" value="-1276.16" />
+      <attvalue for="v_x" value="289.099" />
+      <attvalue for="v_y" value="-2397.11" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1276.158211" x="-1265.305220" z="0.0"></viz:position>
+      <viz:position y="-2397.109220" x="289.098965" z="0.0"></viz:position>
     </node>
     <node id="n74" label="headlinestheatre.com">
     <attvalues>
@@ -1298,12 +1296,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2106.03" />
-      <attvalue for="v_y" value="-523.232" />
+      <attvalue for="v_x" value="1353.34" />
+      <attvalue for="v_y" value="-3981.31" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-523.232283" x="-2106.025444" z="0.0"></viz:position>
+      <viz:position y="-3981.308209" x="1353.339707" z="0.0"></viz:position>
     </node>
     <node id="n75" label="thetyee.ca">
     <attvalues>
@@ -1315,12 +1313,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2145.48" />
-      <attvalue for="v_y" value="224.319" />
+      <attvalue for="v_x" value="672.266" />
+      <attvalue for="v_y" value="-3879.28" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="224.318927" x="-2145.480235" z="0.0"></viz:position>
+      <viz:position y="-3879.275375" x="672.266114" z="0.0"></viz:position>
     </node>
     <node id="n76" label="sookenewsmirror.com">
     <attvalues>
@@ -1332,12 +1330,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-824.376" />
-      <attvalue for="v_y" value="192.245" />
+      <attvalue for="v_x" value="-175.873" />
+      <attvalue for="v_y" value="-2783.41" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="192.244564" x="-824.375761" z="0.0"></viz:position>
+      <viz:position y="-2783.406868" x="-175.873040" z="0.0"></viz:position>
     </node>
     <node id="n77" label="vancouverisawesome.com">
     <attvalues>
@@ -1349,12 +1347,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2066.3" />
-      <attvalue for="v_y" value="-752.57" />
+      <attvalue for="v_x" value="827.656" />
+      <attvalue for="v_y" value="-4148.51" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-752.570127" x="-2066.298359" z="0.0"></viz:position>
+      <viz:position y="-4148.510924" x="827.655632" z="0.0"></viz:position>
     </node>
     <node id="n78" label="vancouver.ca">
     <attvalues>
@@ -1366,12 +1364,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2203.73" />
-      <attvalue for="v_y" value="-228.249" />
+      <attvalue for="v_x" value="536.425" />
+      <attvalue for="v_y" value="-4133.97" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-228.248724" x="-2203.725492" z="0.0"></viz:position>
+      <viz:position y="-4133.969273" x="536.425441" z="0.0"></viz:position>
     </node>
     <node id="n79" label="drivewaycanada.ca">
     <attvalues>
@@ -1383,12 +1381,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="38.0454" />
-      <attvalue for="v_x" value="-967.29" />
-      <attvalue for="v_y" value="-565.275" />
+      <attvalue for="v_x" value="603.886" />
+      <attvalue for="v_y" value="-2883.54" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="38.045397"></viz:size>
-      <viz:position y="-565.274861" x="-967.289657" z="0.0"></viz:position>
+      <viz:position y="-2883.536819" x="603.886426" z="0.0"></viz:position>
     </node>
     <node id="n80" label="abbynews.com">
     <attvalues>
@@ -1400,12 +1398,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="29.4359" />
-      <attvalue for="v_x" value="-1274.13" />
-      <attvalue for="v_y" value="-734.671" />
+      <attvalue for="v_x" value="558.719" />
+      <attvalue for="v_y" value="-3011.38" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="29.435937"></viz:size>
-      <viz:position y="-734.671427" x="-1274.127184" z="0.0"></viz:position>
+      <viz:position y="-3011.377815" x="558.719130" z="0.0"></viz:position>
     </node>
     <node id="n81" label="langleytimes.com">
     <attvalues>
@@ -1417,12 +1415,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1071.52" />
-      <attvalue for="v_y" value="134.406" />
+      <attvalue for="v_x" value="-56.8925" />
+      <attvalue for="v_y" value="-2555.25" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="134.406361" x="-1071.516990" z="0.0"></viz:position>
+      <viz:position y="-2555.254142" x="-56.892471" z="0.0"></viz:position>
     </node>
     <node id="n82" label="wordpress.com">
     <attvalues>
@@ -1434,12 +1432,12 @@
       <attvalue for="v_g" value="59" />
       <attvalue for="v_b" value="147" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-2050.26" />
-      <attvalue for="v_y" value="-1243.96" />
+      <attvalue for="v_x" value="1366.71" />
+      <attvalue for="v_y" value="-3349.17" />
     </attvalues>
       <viz:color r="219" g="59" b="147"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-1243.957774" x="-2050.264170" z="0.0"></viz:position>
+      <viz:position y="-3349.167417" x="1366.710553" z="0.0"></viz:position>
     </node>
     <node id="n83" label="pnw.cc">
     <attvalues>
@@ -1451,12 +1449,12 @@
       <attvalue for="v_g" value="35" />
       <attvalue for="v_b" value="217" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1884.63" />
-      <attvalue for="v_y" value="-1019.89" />
+      <attvalue for="v_x" value="1423.34" />
+      <attvalue for="v_y" value="-2893.76" />
     </attvalues>
       <viz:color r="123" g="35" b="217"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-1019.891132" x="-1884.628232" z="0.0"></viz:position>
+      <viz:position y="-2893.763159" x="1423.337143" z="0.0"></viz:position>
     </node>
     <node id="n84" label="theglobeandmail.com">
     <attvalues>
@@ -1468,12 +1466,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2237.13" />
-      <attvalue for="v_y" value="-481.932" />
+      <attvalue for="v_x" value="499.921" />
+      <attvalue for="v_y" value="-4242.76" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-481.932109" x="-2237.126022" z="0.0"></viz:position>
+      <viz:position y="-4242.758537" x="499.920635" z="0.0"></viz:position>
     </node>
     <node id="n85" label="pinterest.com">
     <attvalues>
@@ -1485,12 +1483,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="38.0454" />
-      <attvalue for="v_x" value="-750.712" />
-      <attvalue for="v_y" value="-546.588" />
+      <attvalue for="v_x" value="366.745" />
+      <attvalue for="v_y" value="-2903.38" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="38.045397"></viz:size>
-      <viz:position y="-546.587784" x="-750.712182" z="0.0"></viz:position>
+      <viz:position y="-2903.379676" x="366.744678" z="0.0"></viz:position>
     </node>
     <node id="n86" label="www2.gov.bc.ca">
     <attvalues>
@@ -1502,12 +1500,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-547.724" />
-      <attvalue for="v_y" value="-513.522" />
+      <attvalue for="v_x" value="1277.56" />
+      <attvalue for="v_y" value="-2631.35" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-513.521563" x="-547.724299" z="0.0"></viz:position>
+      <viz:position y="-2631.350081" x="1277.563219" z="0.0"></viz:position>
     </node>
     <node id="n87" label="ow.ly">
     <attvalues>
@@ -1519,12 +1517,12 @@
       <attvalue for="v_g" value="35" />
       <attvalue for="v_b" value="217" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1984.52" />
-      <attvalue for="v_y" value="-948.959" />
+      <attvalue for="v_x" value="1373.58" />
+      <attvalue for="v_y" value="-3200.28" />
     </attvalues>
       <viz:color r="123" g="35" b="217"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-948.958871" x="-1984.515746" z="0.0"></viz:position>
+      <viz:position y="-3200.284295" x="1373.584957" z="0.0"></viz:position>
     </node>
     <node id="n88" label="time.com">
     <attvalues>
@@ -1536,12 +1534,12 @@
       <attvalue for="v_g" value="150" />
       <attvalue for="v_b" value="120" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2244.28" />
-      <attvalue for="v_y" value="-1008.12" />
+      <attvalue for="v_x" value="273.837" />
+      <attvalue for="v_y" value="-4055.07" />
     </attvalues>
       <viz:color r="217" g="150" b="120"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1008.117142" x="-2244.275836" z="0.0"></viz:position>
+      <viz:position y="-4055.069023" x="273.837293" z="0.0"></viz:position>
     </node>
     <node id="n89" label="vancouver.openfile.ca">
     <attvalues>
@@ -1553,12 +1551,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2016.64" />
-      <attvalue for="v_y" value="-619.464" />
+      <attvalue for="v_x" value="689.464" />
+      <attvalue for="v_y" value="-4195.33" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-619.464258" x="-2016.641090" z="0.0"></viz:position>
+      <viz:position y="-4195.330014" x="689.464026" z="0.0"></viz:position>
     </node>
     <node id="n90" label="wltribune.com">
     <attvalues>
@@ -1570,12 +1568,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-536.617" />
-      <attvalue for="v_y" value="-978.934" />
+      <attvalue for="v_x" value="1118.41" />
+      <attvalue for="v_y" value="-3048.03" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-978.934250" x="-536.617470" z="0.0"></viz:position>
+      <viz:position y="-3048.031576" x="1118.409913" z="0.0"></viz:position>
     </node>
     <node id="n91" label="vernonmorningstar.com">
     <attvalues>
@@ -1587,12 +1585,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1173.76" />
-      <attvalue for="v_y" value="-1115.68" />
+      <attvalue for="v_x" value="1.88127" />
+      <attvalue for="v_y" value="-2818.84" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1115.676621" x="-1173.760218" z="0.0"></viz:position>
+      <viz:position y="-2818.840611" x="1.881269" z="0.0"></viz:position>
     </node>
     <node id="n92" label="chilliwacktimes.com">
     <attvalues>
@@ -1604,12 +1602,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-943.005" />
-      <attvalue for="v_y" value="-425.636" />
+      <attvalue for="v_x" value="196.056" />
+      <attvalue for="v_y" value="-2500.53" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-425.636407" x="-943.005400" z="0.0"></viz:position>
+      <viz:position y="-2500.529870" x="196.056204" z="0.0"></viz:position>
     </node>
     <node id="n93" label="vicnews.com">
     <attvalues>
@@ -1621,12 +1619,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-433.188" />
-      <attvalue for="v_y" value="-615.763" />
+      <attvalue for="v_x" value="1050.02" />
+      <attvalue for="v_y" value="-2907.54" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-615.763294" x="-433.188250" z="0.0"></viz:position>
+      <viz:position y="-2907.542161" x="1050.017053" z="0.0"></viz:position>
     </node>
     <node id="n94" label="facebook.com">
     <attvalues>
@@ -1638,12 +1636,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="44.1539" />
-      <attvalue for="v_x" value="-1080.39" />
-      <attvalue for="v_y" value="-339.182" />
+      <attvalue for="v_x" value="536.973" />
+      <attvalue for="v_y" value="-3253.9" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="44.153906"></viz:size>
-      <viz:position y="-339.181635" x="-1080.388504" z="0.0"></viz:position>
+      <viz:position y="-3253.902632" x="536.972690" z="0.0"></viz:position>
     </node>
     <node id="n95" label="megaphonemagazine.us1.list-manage1.com">
     <attvalues>
@@ -1655,12 +1653,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1796.26" />
-      <attvalue for="v_y" value="-310.068" />
+      <attvalue for="v_x" value="1204.57" />
+      <attvalue for="v_y" value="-3900.97" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-310.068400" x="-1796.262271" z="0.0"></viz:position>
+      <viz:position y="-3900.965722" x="1204.573832" z="0.0"></viz:position>
     </node>
     <node id="n96" label="news.gov.bc.ca">
     <attvalues>
@@ -1672,12 +1670,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-843.362" />
-      <attvalue for="v_y" value="-1268.33" />
+      <attvalue for="v_x" value="222.104" />
+      <attvalue for="v_y" value="-3039.59" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1268.326255" x="-843.361835" z="0.0"></viz:position>
+      <viz:position y="-3039.594716" x="222.104462" z="0.0"></viz:position>
     </node>
     <node id="n97" label="stophomelessness.ca">
     <attvalues>
@@ -1689,12 +1687,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2254.84" />
-      <attvalue for="v_y" value="-108.988" />
+      <attvalue for="v_x" value="662.375" />
+      <attvalue for="v_y" value="-4067.7" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-108.987977" x="-2254.840338" z="0.0"></viz:position>
+      <viz:position y="-4067.702850" x="662.374653" z="0.0"></viz:position>
     </node>
     <node id="n98" label="gravatar.com">
     <attvalues>
@@ -1706,12 +1704,12 @@
       <attvalue for="v_g" value="59" />
       <attvalue for="v_b" value="147" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2043.04" />
-      <attvalue for="v_y" value="-1123.64" />
+      <attvalue for="v_x" value="1581.92" />
+      <attvalue for="v_y" value="-3669.26" />
     </attvalues>
       <viz:color r="219" g="59" b="147"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1123.641953" x="-2043.038354" z="0.0"></viz:position>
+      <viz:position y="-3669.261229" x="1581.915780" z="0.0"></viz:position>
     </node>
     <node id="n99" label="storify.com">
     <attvalues>
@@ -1723,12 +1721,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="34.1741" />
-      <attvalue for="v_x" value="-863.815" />
-      <attvalue for="v_y" value="-158.021" />
+      <attvalue for="v_x" value="187.826" />
+      <attvalue for="v_y" value="-3291.45" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="34.174065"></viz:size>
-      <viz:position y="-158.020970" x="-863.815003" z="0.0"></viz:position>
+      <viz:position y="-3291.445263" x="187.826202" z="0.0"></viz:position>
     </node>
     <node id="n100" label="hellogarlic.tumblr.com">
     <attvalues>
@@ -1740,12 +1738,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-1643" />
-      <attvalue for="v_y" value="593.959" />
+      <attvalue for="v_x" value="236.564" />
+      <attvalue for="v_y" value="-4223.55" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="593.959169" x="-1643.004685" z="0.0"></viz:position>
+      <viz:position y="-4223.545259" x="236.564221" z="0.0"></viz:position>
     </node>
     <node id="n101" label="edition.pagesuite-professional.co.uk">
     <attvalues>
@@ -1757,12 +1755,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1309.42" />
-      <attvalue for="v_y" value="-1076.3" />
+      <attvalue for="v_x" value="842.336" />
+      <attvalue for="v_y" value="-2318.79" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-1076.295960" x="-1309.418127" z="0.0"></viz:position>
+      <viz:position y="-2318.791922" x="842.335751" z="0.0"></viz:position>
     </node>
     <node id="n102" label="bigstockphoto.com">
     <attvalues>
@@ -1774,12 +1772,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1936.78" />
-      <attvalue for="v_y" value="-263.203" />
+      <attvalue for="v_x" value="1270.6" />
+      <attvalue for="v_y" value="-4062.01" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-263.203249" x="-1936.779863" z="0.0"></viz:position>
+      <viz:position y="-4062.014230" x="1270.599835" z="0.0"></viz:position>
     </node>
     <node id="n103" label="addthis.com">
     <attvalues>
@@ -1791,12 +1789,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="34.1741" />
-      <attvalue for="v_x" value="-1034.07" />
-      <attvalue for="v_y" value="-997.121" />
+      <attvalue for="v_x" value="788.39" />
+      <attvalue for="v_y" value="-2652.99" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="34.174065"></viz:size>
-      <viz:position y="-997.121042" x="-1034.074836" z="0.0"></viz:position>
+      <viz:position y="-2652.989133" x="788.390491" z="0.0"></viz:position>
     </node>
     <node id="n104" label="ohiomm.com">
     <attvalues>
@@ -1808,12 +1806,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-776.133" />
-      <attvalue for="v_y" value="-940.202" />
+      <attvalue for="v_x" value="713.861" />
+      <attvalue for="v_y" value="-2431.53" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-940.201771" x="-776.132863" z="0.0"></viz:position>
+      <viz:position y="-2431.528335" x="713.861220" z="0.0"></viz:position>
     </node>
     <node id="n105" label="100milefreepress.net">
     <attvalues>
@@ -1825,12 +1823,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-991.408" />
-      <attvalue for="v_y" value="-1349.46" />
+      <attvalue for="v_x" value="1217.94" />
+      <attvalue for="v_y" value="-2948.61" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1349.457802" x="-991.407616" z="0.0"></viz:position>
+      <viz:position y="-2948.610804" x="1217.941086" z="0.0"></viz:position>
     </node>
     <node id="n106" label="langleyadvance.com">
     <attvalues>
@@ -1842,12 +1840,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1321.98" />
-      <attvalue for="v_y" value="-478.935" />
+      <attvalue for="v_x" value="145.883" />
+      <attvalue for="v_y" value="-2597.43" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-478.935451" x="-1321.984088" z="0.0"></viz:position>
+      <viz:position y="-2597.428204" x="145.883408" z="0.0"></viz:position>
     </node>
     <node id="n107" label="events.ohio.com">
     <attvalues>
@@ -1859,12 +1857,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-634.989" />
-      <attvalue for="v_y" value="-773.867" />
+      <attvalue for="v_x" value="910.832" />
+      <attvalue for="v_y" value="-2615.93" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-773.867496" x="-634.988775" z="0.0"></viz:position>
+      <viz:position y="-2615.934900" x="910.831513" z="0.0"></viz:position>
     </node>
     <node id="n108" label="straight.com">
     <attvalues>
@@ -1876,12 +1874,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2167.62" />
-      <attvalue for="v_y" value="-672.252" />
+      <attvalue for="v_x" value="434.148" />
+      <attvalue for="v_y" value="-3791.11" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-672.251665" x="-2167.618549" z="0.0"></viz:position>
+      <viz:position y="-3791.112915" x="434.147822" z="0.0"></viz:position>
     </node>
     <node id="n109" label="traildailytimes.ca">
     <attvalues>
@@ -1893,12 +1891,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1262.32" />
-      <attvalue for="v_y" value="-577.377" />
+      <attvalue for="v_x" value="-327.06" />
+      <attvalue for="v_y" value="-3038.32" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-577.377468" x="-1262.317310" z="0.0"></viz:position>
+      <viz:position y="-3038.315566" x="-327.059746" z="0.0"></viz:position>
     </node>
     <node id="n110" label="abbynews.upickem.net">
     <attvalues>
@@ -1910,12 +1908,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-554.23" />
-      <attvalue for="v_y" value="-316.737" />
+      <attvalue for="v_x" value="1282.04" />
+      <attvalue for="v_y" value="-2792.64" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-316.736557" x="-554.229523" z="0.0"></viz:position>
+      <viz:position y="-2792.635946" x="1282.042906" z="0.0"></viz:position>
     </node>
     <node id="n111" label="feedproxy.google.com">
     <attvalues>
@@ -1927,12 +1925,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-813.257" />
-      <attvalue for="v_y" value="333.799" />
+      <attvalue for="v_x" value="174.02" />
+      <attvalue for="v_y" value="-2334.19" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="333.799150" x="-813.257033" z="0.0"></viz:position>
+      <viz:position y="-2334.185993" x="174.019658" z="0.0"></viz:position>
     </node>
     <node id="n112" label="bcpovertyreduction.ca">
     <attvalues>
@@ -1944,12 +1942,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2316.99" />
-      <attvalue for="v_y" value="-288.036" />
+      <attvalue for="v_x" value="828.666" />
+      <attvalue for="v_y" value="-3910.75" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-288.036200" x="-2316.993381" z="0.0"></viz:position>
+      <viz:position y="-3910.748871" x="828.666029" z="0.0"></viz:position>
     </node>
     <node id="n113" label="campbellrivermirror.com">
     <attvalues>
@@ -1961,12 +1959,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-932.623" />
-      <attvalue for="v_y" value="99.8361" />
+      <attvalue for="v_x" value="-282.576" />
+      <attvalue for="v_y" value="-2822.24" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="99.836052" x="-932.622909" z="0.0"></viz:position>
+      <viz:position y="-2822.235525" x="-282.575847" z="0.0"></viz:position>
     </node>
     <node id="n114" label="used.ca">
     <attvalues>
@@ -1978,12 +1976,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1591.03" />
-      <attvalue for="v_y" value="-839.856" />
+      <attvalue for="v_x" value="241.28" />
+      <attvalue for="v_y" value="-2673.83" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-839.855666" x="-1591.031176" z="0.0"></viz:position>
+      <viz:position y="-2673.826613" x="241.279939" z="0.0"></viz:position>
     </node>
     <node id="n115" label="megaphonemagazine.eventbrite.com">
     <attvalues>
@@ -1995,12 +1993,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1686.88" />
-      <attvalue for="v_y" value="-108.044" />
+      <attvalue for="v_x" value="412.051" />
+      <attvalue for="v_y" value="-4090.62" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-108.044036" x="-1686.875165" z="0.0"></viz:position>
+      <viz:position y="-4090.622228" x="412.051318" z="0.0"></viz:position>
     </node>
     <node id="n116" label="cstreet.ca">
     <attvalues>
@@ -2012,12 +2010,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1853.02" />
-      <attvalue for="v_y" value="-448.617" />
+      <attvalue for="v_x" value="1276.3" />
+      <attvalue for="v_y" value="-3660" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-448.617444" x="-1853.015540" z="0.0"></viz:position>
+      <viz:position y="-3659.998709" x="1276.301274" z="0.0"></viz:position>
     </node>
     <node id="n117" label="lovndsqualr.tumblr.com">
     <attvalues>
@@ -2029,12 +2027,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-2403.52" />
-      <attvalue for="v_y" value="-709.078" />
+      <attvalue for="v_x" value="-46.8135" />
+      <attvalue for="v_y" value="-4039.36" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="-709.078203" x="-2403.515896" z="0.0"></viz:position>
+      <viz:position y="-4039.362789" x="-46.813462" z="0.0"></viz:position>
     </node>
     <node id="n118" label="joliekerr.tumblr.com">
     <attvalues>
@@ -2046,12 +2044,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1314.65" />
-      <attvalue for="v_y" value="599.073" />
+      <attvalue for="v_x" value="1372.95" />
+      <attvalue for="v_y" value="-3021.01" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="599.072950" x="-1314.649152" z="0.0"></viz:position>
+      <viz:position y="-3021.006589" x="1372.949723" z="0.0"></viz:position>
     </node>
     <node id="n119" label="badpedestrian.tumblr.com">
     <attvalues>
@@ -2063,12 +2061,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-542.702" />
-      <attvalue for="v_y" value="-8.28256" />
+      <attvalue for="v_x" value="157.601" />
+      <attvalue for="v_y" value="-4137.3" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="-8.282558" x="-542.701719" z="0.0"></viz:position>
+      <viz:position y="-4137.297928" x="157.600793" z="0.0"></viz:position>
     </node>
     <node id="n120" label="find.megaphonemagazine.com">
     <attvalues>
@@ -2080,12 +2078,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1353.74" />
-      <attvalue for="v_y" value="193.979" />
+      <attvalue for="v_x" value="1280.77" />
+      <attvalue for="v_y" value="-3803.84" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="193.979437" x="-1353.737798" z="0.0"></viz:position>
+      <viz:position y="-3803.842792" x="1280.771199" z="0.0"></viz:position>
     </node>
     <node id="n121" label="goo.gl">
     <attvalues>
@@ -2097,12 +2095,12 @@
       <attvalue for="v_g" value="35" />
       <attvalue for="v_b" value="217" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1351.56" />
-      <attvalue for="v_y" value="-1409.68" />
+      <attvalue for="v_x" value="886.778" />
+      <attvalue for="v_y" value="-3320.83" />
     </attvalues>
       <viz:color r="123" g="35" b="217"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1409.682344" x="-1351.557768" z="0.0"></viz:position>
+      <viz:position y="-3320.832439" x="886.777554" z="0.0"></viz:position>
     </node>
     <node id="n122" label="cbc.ca">
     <attvalues>
@@ -2114,12 +2112,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1401" />
-      <attvalue for="v_y" value="-248.619" />
+      <attvalue for="v_x" value="869.631" />
+      <attvalue for="v_y" value="-3417.16" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-248.618774" x="-1400.998160" z="0.0"></viz:position>
+      <viz:position y="-3417.164887" x="869.630967" z="0.0"></viz:position>
     </node>
     <node id="n123" label="westender.com">
     <attvalues>
@@ -2131,12 +2129,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1578.33" />
-      <attvalue for="v_y" value="455.732" />
+      <attvalue for="v_x" value="555.288" />
+      <attvalue for="v_y" value="-3996.94" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="455.731989" x="-1578.325413" z="0.0"></viz:position>
+      <viz:position y="-3996.942985" x="555.288248" z="0.0"></viz:position>
     </node>
     <node id="n124" label="lowerislandnews.files.wordpress.com">
     <attvalues>
@@ -2148,12 +2146,12 @@
       <attvalue for="v_g" value="59" />
       <attvalue for="v_b" value="147" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1927.34" />
-      <attvalue for="v_y" value="-1322.43" />
+      <attvalue for="v_x" value="1671.27" />
+      <attvalue for="v_y" value="-3213.12" />
     </attvalues>
       <viz:color r="219" g="59" b="147"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1322.434237" x="-1927.339859" z="0.0"></viz:position>
+      <viz:position y="-3213.115781" x="1671.270389" z="0.0"></viz:position>
     </node>
     <node id="n125" label="janinebandcroft.wordpress.com">
     <attvalues>
@@ -2165,12 +2163,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="59" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1954.99" />
-      <attvalue for="v_y" value="463.06" />
+      <attvalue for="v_x" value="1554.66" />
+      <attvalue for="v_y" value="-2807.59" />
     </attvalues>
       <viz:color r="67" g="217" b="59"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="463.060108" x="-1954.988233" z="0.0"></viz:position>
+      <viz:position y="-2807.589774" x="1554.658881" z="0.0"></viz:position>
     </node>
     <node id="n126" label="vancourier.com">
     <attvalues>
@@ -2182,12 +2180,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1758.89" />
-      <attvalue for="v_y" value="145.219" />
+      <attvalue for="v_x" value="1389.52" />
+      <attvalue for="v_y" value="-3879.79" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="145.218966" x="-1758.885077" z="0.0"></viz:position>
+      <viz:position y="-3879.785691" x="1389.517198" z="0.0"></viz:position>
     </node>
     <node id="n127" label="hopeinshadows.com">
     <attvalues>
@@ -2199,12 +2197,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1922.25" />
-      <attvalue for="v_y" value="-740.614" />
+      <attvalue for="v_x" value="1153.45" />
+      <attvalue for="v_y" value="-3723.36" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-740.614229" x="-1922.246208" z="0.0"></viz:position>
+      <viz:position y="-3723.357266" x="1153.450887" z="0.0"></viz:position>
     </node>
     <node id="n128" label="oakbaynews.com">
     <attvalues>
@@ -2216,12 +2214,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1138.55" />
-      <attvalue for="v_y" value="21.1337" />
+      <attvalue for="v_x" value="223.797" />
+      <attvalue for="v_y" value="-3528.6" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="21.133717" x="-1138.547753" z="0.0"></viz:position>
+      <viz:position y="-3528.602026" x="223.797138" z="0.0"></viz:position>
     </node>
     <node id="n129" label="webpapersadmin.bpnewmedia.com">
     <attvalues>
@@ -2233,12 +2231,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-542.825" />
-      <attvalue for="v_y" value="-693.821" />
+      <attvalue for="v_x" value="735.223" />
+      <attvalue for="v_y" value="-2311.89" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-693.820517" x="-542.824653" z="0.0"></viz:position>
+      <viz:position y="-2311.887850" x="735.223133" z="0.0"></viz:position>
     </node>
     <node id="n130" label="pentictonwesternnews.com">
     <attvalues>
@@ -2250,12 +2248,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1247.54" />
-      <attvalue for="v_y" value="-866.557" />
+      <attvalue for="v_x" value="355.893" />
+      <attvalue for="v_y" value="-3071.29" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-866.556987" x="-1247.540277" z="0.0"></viz:position>
+      <viz:position y="-3071.293621" x="355.893482" z="0.0"></viz:position>
     </node>
     <node id="n131" label="blackpress.tv">
     <attvalues>
@@ -2267,12 +2265,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-400.46" />
-      <attvalue for="v_y" value="-492.866" />
+      <attvalue for="v_x" value="494.208" />
+      <attvalue for="v_y" value="-2289.95" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-492.866039" x="-400.459691" z="0.0"></viz:position>
+      <viz:position y="-2289.950152" x="494.207795" z="0.0"></viz:position>
     </node>
     <node id="n132" label="bpresscn.accuweather.com">
     <attvalues>
@@ -2284,12 +2282,12 @@
       <attvalue for="v_g" value="189" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1680.1" />
-      <attvalue for="v_y" value="65.9811" />
+      <attvalue for="v_x" value="-202.304" />
+      <attvalue for="v_y" value="-3571.14" />
     </attvalues>
       <viz:color r="120" g="189" b="219"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="65.981132" x="-1680.100723" z="0.0"></viz:position>
+      <viz:position y="-3571.138805" x="-202.303870" z="0.0"></viz:position>
     </node>
     <node id="n133" label="mrtimes.com">
     <attvalues>
@@ -2301,12 +2299,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1364.96" />
-      <attvalue for="v_y" value="-379.869" />
+      <attvalue for="v_x" value="361.478" />
+      <attvalue for="v_y" value="-2747.03" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-379.868626" x="-1364.958290" z="0.0"></viz:position>
+      <viz:position y="-2747.034929" x="361.478054" z="0.0"></viz:position>
     </node>
     <node id="n134" label="google.com">
     <attvalues>
@@ -2318,12 +2316,12 @@
       <attvalue for="v_g" value="35" />
       <attvalue for="v_b" value="217" />
       <attvalue for="v_size" value="38.0454" />
-      <attvalue for="v_x" value="-1755.07" />
-      <attvalue for="v_y" value="-1076.72" />
+      <attvalue for="v_x" value="1124.33" />
+      <attvalue for="v_y" value="-3244.39" />
     </attvalues>
       <viz:color r="123" g="35" b="217"></viz:color>
       <viz:size value="38.045397"></viz:size>
-      <viz:position y="-1076.723808" x="-1755.070012" z="0.0"></viz:position>
+      <viz:position y="-3244.394124" x="1124.328299" z="0.0"></viz:position>
     </node>
     <node id="n135" label="localworkbc.ca">
     <attvalues>
@@ -2335,12 +2333,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="38.0454" />
-      <attvalue for="v_x" value="-781.606" />
-      <attvalue for="v_y" value="-712.886" />
+      <attvalue for="v_x" value="591.887" />
+      <attvalue for="v_y" value="-2711.2" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="38.045397"></viz:size>
-      <viz:position y="-712.885846" x="-781.606099" z="0.0"></viz:position>
+      <viz:position y="-2711.202776" x="591.886914" z="0.0"></viz:position>
     </node>
     <node id="n136" label="davidharris.tumblr.com">
     <attvalues>
@@ -2352,12 +2350,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1593" />
-      <attvalue for="v_y" value="-1270.19" />
+      <attvalue for="v_x" value="1544.32" />
+      <attvalue for="v_y" value="-3253.71" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1270.186452" x="-1592.998954" z="0.0"></viz:position>
+      <viz:position y="-3253.708583" x="1544.318641" z="0.0"></viz:position>
     </node>
     <node id="n137" label="marcomazzoni.tumblr.com">
     <attvalues>
@@ -2369,12 +2367,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-2450.62" />
-      <attvalue for="v_y" value="-440.214" />
+      <attvalue for="v_x" value="-350.596" />
+      <attvalue for="v_y" value="-3522.38" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="-440.213674" x="-2450.623143" z="0.0"></viz:position>
+      <viz:position y="-3522.381001" x="-350.595949" z="0.0"></viz:position>
     </node>
     <node id="n138" label="surveymonkey.com">
     <attvalues>
@@ -2386,12 +2384,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="59" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1470.23" />
-      <attvalue for="v_y" value="585.504" />
+      <attvalue for="v_x" value="1627.5" />
+      <attvalue for="v_y" value="-2943.35" />
     </attvalues>
       <viz:color r="67" g="217" b="59"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="585.503772" x="-1470.226312" z="0.0"></viz:position>
+      <viz:position y="-2943.353061" x="1627.500532" z="0.0"></viz:position>
     </node>
     <node id="n139" label="bit.ly">
     <attvalues>
@@ -2403,12 +2401,12 @@
       <attvalue for="v_g" value="120" />
       <attvalue for="v_b" value="189" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-689.45" />
-      <attvalue for="v_y" value="-1197.05" />
+      <attvalue for="v_x" value="-141.907" />
+      <attvalue for="v_y" value="-3938.39" />
     </attvalues>
       <viz:color r="217" g="120" b="189"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1197.054360" x="-689.449683" z="0.0"></viz:position>
+      <viz:position y="-3938.386973" x="-141.907000" z="0.0"></viz:position>
     </node>
     <node id="n140" label="save.ca">
     <attvalues>
@@ -2420,12 +2418,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-2245.49" />
-      <attvalue for="v_y" value="161.81" />
+      <attvalue for="v_x" value="1444.78" />
+      <attvalue for="v_y" value="-2608.74" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="161.810161" x="-2245.493083" z="0.0"></viz:position>
+      <viz:position y="-2608.742924" x="1444.781163" z="0.0"></viz:position>
     </node>
     <node id="n141" label="bcclassified.com">
     <attvalues>
@@ -2437,12 +2435,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="29.4359" />
-      <attvalue for="v_x" value="-690.941" />
-      <attvalue for="v_y" value="-428.922" />
+      <attvalue for="v_x" value="491.721" />
+      <attvalue for="v_y" value="-2674.32" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="29.435937"></viz:size>
-      <viz:position y="-428.921710" x="-690.941021" z="0.0"></viz:position>
+      <viz:position y="-2674.321326" x="491.721269" z="0.0"></viz:position>
     </node>
     <node id="n142" label="vancouverobserver.com">
     <attvalues>
@@ -2454,12 +2452,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1488.99" />
-      <attvalue for="v_y" value="145.668" />
+      <attvalue for="v_x" value="780.244" />
+      <attvalue for="v_y" value="-4021.76" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="145.667812" x="-1488.990482" z="0.0"></viz:position>
+      <viz:position y="-4021.760241" x="780.243606" z="0.0"></viz:position>
     </node>
     <node id="n143" label="legacy.com">
     <attvalues>
@@ -2471,12 +2469,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-937.971" />
-      <attvalue for="v_y" value="-1199.77" />
+      <attvalue for="v_x" value="1007.07" />
+      <attvalue for="v_y" value="-2437.82" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-1199.771001" x="-937.970821" z="0.0"></viz:position>
+      <viz:position y="-2437.820281" x="1007.067690" z="0.0"></viz:position>
     </node>
     <node id="n144" label="support.google.com">
     <attvalues>
@@ -2488,12 +2486,12 @@
       <attvalue for="v_g" value="35" />
       <attvalue for="v_b" value="217" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1481.77" />
-      <attvalue for="v_y" value="-1468.81" />
+      <attvalue for="v_x" value="1453.35" />
+      <attvalue for="v_y" value="-3476.02" />
     </attvalues>
       <viz:color r="123" g="35" b="217"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1468.807257" x="-1481.770874" z="0.0"></viz:position>
+      <viz:position y="-3476.022444" x="1453.348140" z="0.0"></viz:position>
     </node>
     <node id="n145" label="nanaimocrimestoppers.com">
     <attvalues>
@@ -2505,12 +2503,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-970.064" />
-      <attvalue for="v_y" value="-1100.77" />
+      <attvalue for="v_x" value="1048.51" />
+      <attvalue for="v_y" value="-2665.67" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-1100.773758" x="-970.064112" z="0.0"></viz:position>
+      <viz:position y="-2665.665063" x="1048.511008" z="0.0"></viz:position>
     </node>
     <node id="n146" label="theprogress.com">
     <attvalues>
@@ -2522,12 +2520,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1358.22" />
-      <attvalue for="v_y" value="-902.538" />
+      <attvalue for="v_x" value="705.023" />
+      <attvalue for="v_y" value="-3002.92" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-902.537940" x="-1358.218153" z="0.0"></viz:position>
+      <viz:position y="-3002.915518" x="705.023261" z="0.0"></viz:position>
     </node>
     <node id="n147" label="issuu.com">
     <attvalues>
@@ -2539,12 +2537,12 @@
       <attvalue for="v_g" value="35" />
       <attvalue for="v_b" value="217" />
       <attvalue for="v_size" value="41.3186" />
-      <attvalue for="v_x" value="-1471.19" />
-      <attvalue for="v_y" value="-1076.43" />
+      <attvalue for="v_x" value="1160.41" />
+      <attvalue for="v_y" value="-2838.74" />
     </attvalues>
       <viz:color r="123" g="35" b="217"></viz:color>
       <viz:size value="41.318562"></viz:size>
-      <viz:position y="-1076.433598" x="-1471.191085" z="0.0"></viz:position>
+      <viz:position y="-2838.742282" x="1160.405093" z="0.0"></viz:position>
     </node>
     <node id="n148" label="kootenayadvertiser.com">
     <attvalues>
@@ -2556,12 +2554,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1324.86" />
-      <attvalue for="v_y" value="-29.0885" />
+      <attvalue for="v_x" value="-126.331" />
+      <attvalue for="v_y" value="-3234.44" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-29.088487" x="-1324.857259" z="0.0"></viz:position>
+      <viz:position y="-3234.444243" x="-126.331387" z="0.0"></viz:position>
     </node>
     <node id="n149" label="infogr.am">
     <attvalues>
@@ -2573,12 +2571,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-650.735" />
-      <attvalue for="v_y" value="-917.667" />
+      <attvalue for="v_x" value="716.229" />
+      <attvalue for="v_y" value="-3308.5" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-917.666683" x="-650.734817" z="0.0"></viz:position>
+      <viz:position y="-3308.503390" x="716.229122" z="0.0"></viz:position>
     </node>
     <node id="n150" label="cowichanvalleycitizen.com">
     <attvalues>
@@ -2590,12 +2588,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1530.98" />
-      <attvalue for="v_y" value="-295.975" />
+      <attvalue for="v_x" value="360.816" />
+      <attvalue for="v_y" value="-3471.6" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-295.975411" x="-1530.984027" z="0.0"></viz:position>
+      <viz:position y="-3471.601120" x="360.815932" z="0.0"></viz:position>
     </node>
     <node id="n151" label="tumblr.com">
     <attvalues>
@@ -2607,12 +2605,12 @@
       <attvalue for="v_g" value="80" />
       <attvalue for="v_b" value="35" />
       <attvalue for="v_size" value="34.1741" />
-      <attvalue for="v_x" value="-404.635" />
-      <attvalue for="v_y" value="-277.339" />
+      <attvalue for="v_x" value="-50.5281" />
+      <attvalue for="v_y" value="-3567.59" />
     </attvalues>
       <viz:color r="217" g="80" b="35"></viz:color>
       <viz:size value="34.174065"></viz:size>
-      <viz:position y="-277.338808" x="-404.634875" z="0.0"></viz:position>
+      <viz:position y="-3567.593913" x="-50.528136" z="0.0"></viz:position>
     </node>
     <node id="n152" label="lowerislandnews.com">
     <attvalues>
@@ -2624,12 +2622,12 @@
       <attvalue for="v_g" value="59" />
       <attvalue for="v_b" value="147" />
       <attvalue for="v_size" value="38.0454" />
-      <attvalue for="v_x" value="-1921.91" />
-      <attvalue for="v_y" value="-1181.19" />
+      <attvalue for="v_x" value="1513.55" />
+      <attvalue for="v_y" value="-3375.01" />
     </attvalues>
       <viz:color r="219" g="59" b="147"></viz:color>
       <viz:size value="38.045397"></viz:size>
-      <viz:position y="-1181.191785" x="-1921.907085" z="0.0"></viz:position>
+      <viz:position y="-3375.012373" x="1513.551261" z="0.0"></viz:position>
     </node>
     <node id="n153" label="francesbula.com">
     <attvalues>
@@ -2641,12 +2639,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2180.75" />
-      <attvalue for="v_y" value="16.3606" />
+      <attvalue for="v_x" value="559.992" />
+      <attvalue for="v_y" value="-3812.74" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="16.360588" x="-2180.752549" z="0.0"></viz:position>
+      <viz:position y="-3812.740863" x="559.991726" z="0.0"></viz:position>
     </node>
     <node id="n154" label="eventbrite.com">
     <attvalues>
@@ -2658,12 +2656,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1854.61" />
-      <attvalue for="v_y" value="-5.03864" />
+      <attvalue for="v_x" value="1046.58" />
+      <attvalue for="v_y" value="-3574.16" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-5.038635" x="-1854.608879" z="0.0"></viz:position>
+      <viz:position y="-3574.156875" x="1046.583652" z="0.0"></viz:position>
     </node>
     <node id="n155" label="victorysquare.net">
     <attvalues>
@@ -2675,12 +2673,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1981.38" />
-      <attvalue for="v_y" value="-79.7168" />
+      <attvalue for="v_x" value="1397.75" />
+      <attvalue for="v_y" value="-3701.28" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-79.716840" x="-1981.383264" z="0.0"></viz:position>
+      <viz:position y="-3701.284955" x="1397.745259" z="0.0"></viz:position>
     </node>
     <node id="n156" label="albernivalleynews.com">
     <attvalues>
@@ -2692,12 +2690,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-1141.58" />
-      <attvalue for="v_y" value="-735.466" />
+      <attvalue for="v_x" value="553.588" />
+      <attvalue for="v_y" value="-2505.24" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-735.465804" x="-1141.579911" z="0.0"></viz:position>
+      <viz:position y="-2505.235869" x="553.587897" z="0.0"></viz:position>
     </node>
     <node id="n157" label="nationbuilder.com">
     <attvalues>
@@ -2709,12 +2707,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2059.88" />
-      <attvalue for="v_y" value="-255.585" />
+      <attvalue for="v_x" value="1066.83" />
+      <attvalue for="v_y" value="-3832.95" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-255.585083" x="-2059.875245" z="0.0"></viz:position>
+      <viz:position y="-3832.946838" x="1066.827756" z="0.0"></viz:position>
     </node>
     <node id="n158" label="greiskuring.tumblr.com">
     <attvalues>
@@ -2726,12 +2724,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-1022.73" />
-      <attvalue for="v_y" value="550.453" />
+      <attvalue for="v_x" value="358.552" />
+      <attvalue for="v_y" value="-4265.93" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="550.453283" x="-1022.731717" z="0.0"></viz:position>
+      <viz:position y="-4265.930761" x="358.551754" z="0.0"></viz:position>
     </node>
     <node id="n159" label="citycaucus.com">
     <attvalues>
@@ -2743,12 +2741,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1877.94" />
-      <attvalue for="v_y" value="-592.316" />
+      <attvalue for="v_x" value="1159.17" />
+      <attvalue for="v_y" value="-4164.61" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-592.315631" x="-1877.935060" z="0.0"></viz:position>
+      <viz:position y="-4164.606318" x="1159.172161" z="0.0"></viz:position>
     </node>
     <node id="n160" label="charleshuettner.tumblr.com">
     <attvalues>
@@ -2760,12 +2758,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-2323.85" />
-      <attvalue for="v_y" value="-909.816" />
+      <attvalue for="v_x" value="44.0539" />
+      <attvalue for="v_y" value="-4116.04" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="-909.815611" x="-2323.854329" z="0.0"></viz:position>
+      <viz:position y="-4116.039603" x="44.053930" z="0.0"></viz:position>
     </node>
     <node id="n161" label="cknw.com">
     <attvalues>
@@ -2777,12 +2775,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1542.9" />
-      <attvalue for="v_y" value="13.5534" />
+      <attvalue for="v_x" value="443.251" />
+      <attvalue for="v_y" value="-3943.9" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="13.553423" x="-1542.902065" z="0.0"></viz:position>
+      <viz:position y="-3943.903985" x="443.251307" z="0.0"></viz:position>
     </node>
     <node id="n162" label="pivotlegal.org">
     <attvalues>
@@ -2794,12 +2792,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1873.73" />
-      <attvalue for="v_y" value="171.036" />
+      <attvalue for="v_x" value="990.423" />
+      <attvalue for="v_y" value="-3714.75" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="171.036439" x="-1873.727745" z="0.0"></viz:position>
+      <viz:position y="-3714.746887" x="990.423132" z="0.0"></viz:position>
     </node>
     <node id="n163" label="schema.org">
     <attvalues>
@@ -2811,12 +2809,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="0" />
-      <attvalue for="v_x" value="-2421.77" />
-      <attvalue for="v_y" value="-580.191" />
+      <attvalue for="v_x" value="1108.49" />
+      <attvalue for="v_y" value="-3430.07" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="0.000000"></viz:size>
-      <viz:position y="-580.190788" x="-2421.765613" z="0.0"></viz:position>
+      <viz:position y="-3430.066913" x="1108.488622" z="0.0"></viz:position>
     </node>
     <node id="n164" label="bcdailybuzz.com">
     <attvalues>
@@ -2828,12 +2826,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="209" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-753.97" />
-      <attvalue for="v_y" value="-292.233" />
+      <attvalue for="v_x" value="478.263" />
+      <attvalue for="v_y" value="-3114.97" />
     </attvalues>
       <viz:color r="59" g="217" b="209"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-292.232898" x="-753.969576" z="0.0"></viz:position>
+      <viz:position y="-3114.966400" x="478.263113" z="0.0"></viz:position>
     </node>
     <node id="n165" label="sh4tterdgl4ss.tumblr.com">
     <attvalues>
@@ -2845,12 +2843,12 @@
       <attvalue for="v_g" value="219" />
       <attvalue for="v_b" value="219" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1466.3" />
-      <attvalue for="v_y" value="-1340.44" />
+      <attvalue for="v_x" value="1563.63" />
+      <attvalue for="v_y" value="-3552.55" />
     </attvalues>
       <viz:color r="217" g="219" b="219"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1340.443072" x="-1466.295661" z="0.0"></viz:position>
+      <viz:position y="-3552.547340" x="1563.626735" z="0.0"></viz:position>
     </node>
     <node id="n166" label="jameshance.com">
     <attvalues>
@@ -2862,12 +2860,12 @@
       <attvalue for="v_g" value="80" />
       <attvalue for="v_b" value="35" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-582.674" />
-      <attvalue for="v_y" value="199.499" />
+      <attvalue for="v_x" value="-377.33" />
+      <attvalue for="v_y" value="-3174.89" />
     </attvalues>
       <viz:color r="217" g="80" b="35"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="199.498944" x="-582.674448" z="0.0"></viz:position>
+      <viz:position y="-3174.888358" x="-377.329721" z="0.0"></viz:position>
     </node>
     <node id="n167" label="vancouver.24hrs.ca">
     <attvalues>
@@ -2879,12 +2877,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2130.98" />
-      <attvalue for="v_y" value="-369.537" />
+      <attvalue for="v_x" value="781.803" />
+      <attvalue for="v_y" value="-4285.42" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-369.536562" x="-2130.982564" z="0.0"></viz:position>
+      <viz:position y="-4285.424301" x="781.802720" z="0.0"></viz:position>
     </node>
     <node id="n168" label="theprovince.com">
     <attvalues>
@@ -2896,12 +2894,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-2401.68" />
-      <attvalue for="v_y" value="-232.451" />
+      <attvalue for="v_x" value="1020.95" />
+      <attvalue for="v_y" value="-4210.73" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-232.451478" x="-2401.675125" z="0.0"></viz:position>
+      <viz:position y="-4210.730952" x="1020.948141" z="0.0"></viz:position>
     </node>
     <node id="n169" label="twitter.com">
     <attvalues>
@@ -2913,12 +2911,12 @@
       <attvalue for="v_g" value="80" />
       <attvalue for="v_b" value="35" />
       <attvalue for="v_size" value="50.9158" />
-      <attvalue for="v_x" value="-937.928" />
-      <attvalue for="v_y" value="-294.975" />
+      <attvalue for="v_x" value="397.758" />
+      <attvalue for="v_y" value="-3235.58" />
     </attvalues>
       <viz:color r="217" g="80" b="35"></viz:color>
       <viz:size value="50.915806"></viz:size>
-      <viz:position y="-294.975364" x="-937.928162" z="0.0"></viz:position>
+      <viz:position y="-3235.579791" x="397.757518" z="0.0"></viz:position>
     </node>
     <node id="n170" label="reddeeradvocate.com">
     <attvalues>
@@ -2930,12 +2928,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1035.29" />
-      <attvalue for="v_y" value="289.845" />
+      <attvalue for="v_x" value="35.915" />
+      <attvalue for="v_y" value="-2443.77" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="289.844704" x="-1035.292581" z="0.0"></viz:position>
+      <viz:position y="-2443.773314" x="35.915023" z="0.0"></viz:position>
     </node>
     <node id="n171" label="plus.google.com">
     <attvalues>
@@ -2947,12 +2945,12 @@
       <attvalue for="v_g" value="35" />
       <attvalue for="v_b" value="217" />
       <attvalue for="v_size" value="52.7634" />
-      <attvalue for="v_x" value="-1791.13" />
-      <attvalue for="v_y" value="-884.192" />
+      <attvalue for="v_x" value="1228.08" />
+      <attvalue for="v_y" value="-3175.44" />
     </attvalues>
       <viz:color r="123" g="35" b="217"></viz:color>
       <viz:size value="52.763366"></viz:size>
-      <viz:position y="-884.192230" x="-1791.126560" z="0.0"></viz:position>
+      <viz:position y="-3175.439747" x="1228.077199" z="0.0"></viz:position>
     </node>
     <node id="n172" label="shopping.ohio.com">
     <attvalues>
@@ -2964,12 +2962,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-803.982" />
-      <attvalue for="v_y" value="-426.101" />
+      <attvalue for="v_x" value="926.086" />
+      <attvalue for="v_y" value="-2373" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-426.101142" x="-803.982301" z="0.0"></viz:position>
+      <viz:position y="-2372.998696" x="926.086042" z="0.0"></viz:position>
     </node>
     <node id="n173" label="iservices.blackpress.ca">
     <attvalues>
@@ -2981,12 +2979,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="38.0454" />
-      <attvalue for="v_x" value="-863.658" />
-      <attvalue for="v_y" value="-631.903" />
+      <attvalue for="v_x" value="480.634" />
+      <attvalue for="v_y" value="-2861.95" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="38.045397"></viz:size>
-      <viz:position y="-631.902688" x="-863.657542" z="0.0"></viz:position>
+      <viz:position y="-2861.950125" x="480.633938" z="0.0"></viz:position>
     </node>
     <node id="n174" label="autos.ohio.com">
     <attvalues>
@@ -2998,12 +2996,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="23.3274" />
-      <attvalue for="v_x" value="-639.283" />
-      <attvalue for="v_y" value="-621.408" />
+      <attvalue for="v_x" value="844.286" />
+      <attvalue for="v_y" value="-2480.89" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="23.327428"></viz:size>
-      <viz:position y="-621.407897" x="-639.283180" z="0.0"></viz:position>
+      <viz:position y="-2480.893247" x="844.286031" z="0.0"></viz:position>
     </node>
     <node id="n175" label="megaphonemagazine.com">
     <attvalues>
@@ -3015,12 +3013,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="82.6371" />
-      <attvalue for="v_x" value="-1824.32" />
-      <attvalue for="v_y" value="-172.787" />
+      <attvalue for="v_x" value="863.661" />
+      <attvalue for="v_y" value="-3809.82" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="82.637124"></viz:size>
-      <viz:position y="-172.787431" x="-1824.315284" z="0.0"></viz:position>
+      <viz:position y="-3809.819019" x="863.661301" z="0.0"></viz:position>
     </node>
     <node id="n176" label="en.wordpress.com">
     <attvalues>
@@ -3032,12 +3030,12 @@
       <attvalue for="v_g" value="59" />
       <attvalue for="v_b" value="147" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1812.82" />
-      <attvalue for="v_y" value="-1382.57" />
+      <attvalue for="v_x" value="1370.76" />
+      <attvalue for="v_y" value="-3538.43" />
     </attvalues>
       <viz:color r="219" g="59" b="147"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="-1382.573823" x="-1812.816109" z="0.0"></viz:position>
+      <viz:position y="-3538.427870" x="1370.756347" z="0.0"></viz:position>
     </node>
     <node id="n177" label="megaphonemagazine.us1.list-manage.com">
     <attvalues>
@@ -3049,12 +3047,12 @@
       <attvalue for="v_g" value="217" />
       <attvalue for="v_b" value="211" />
       <attvalue for="v_size" value="14.718" />
-      <attvalue for="v_x" value="-1552.21" />
-      <attvalue for="v_y" value="295.069" />
+      <attvalue for="v_x" value="897.932" />
+      <attvalue for="v_y" value="-3597.99" />
     </attvalues>
       <viz:color r="35" g="217" b="211"></viz:color>
       <viz:size value="14.717969"></viz:size>
-      <viz:position y="295.068884" x="-1552.209526" z="0.0"></viz:position>
+      <viz:position y="-3597.989900" x="897.931665" z="0.0"></viz:position>
     </node>
   </nodes>
   <edges>

@@ -34,7 +34,7 @@ jupyter notebook
 
 ## Contributing
 
-Please see [contributing guidelines](https://github.com/archivesunleashed/auk/blob/master/CONTRIBUTING.md) for details.
+Please see [contributing guidelines](https://github.com/archivesunleashed/auk-notebooks/blob/master/CONTRIBUTING.md) for details.
 
 ## License
 

@@ -1,12 +1,12 @@
-# AUK; Jupyter Notebooks
+# Archives Unleashed Cloud: Jupyter Notebooks
+
+A prototype Jupyter notebook to assist in creating additional visualizations from Archives Unleashed Cloud derivatives.
 
 ![notebook screenshot](https://user-images.githubusercontent.com/3834704/53252943-1a89b880-368e-11e9-9a9a-31c43a045a55.png)
 
-A prototype Jupyter notebook derivative for the Archives Unleashed Cloud.
-
 ## Requirements
 
-Jupyter Notebook. Follow the instructions on [their website](https://jupyter.org). 
+Jupyter Notebook. Follow the installation instructions on [their website](https://jupyter.org). 
 
 Dependencies. Any version higher than below should work:
 
@@ -20,7 +20,7 @@ Dependencies. Any version higher than below should work:
 
 ## Installation
 
-Download this notebook from the Archives Unleashed Cloud as a derivative (or from here). Place the Cloud derivatives in a directory labelled `data` in the directory that you are running the notebook from.
+Download this notebook from the Archives Unleashed Cloud as a derivative (or from here). Place the Cloud derivatives in a directory labelled `data`, which should be housed in the same directory that you are running the notebook from.
 
 This repository comes with sample data, you can swap out the sample data with your own Cloud data.
 

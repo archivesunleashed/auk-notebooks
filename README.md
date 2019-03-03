@@ -12,8 +12,8 @@ Dependencies. Any version higher than below should work:
 
 * Python 3.7
 * ggplot (0.11.5)
-* matplotlib (1.15.1)
-* numpy (0.23.4)
+* matplotlib (3.0.2)
+* numpy (1.15.1)
 * pandas (0.23.4)
 * networkx (2.2)
 * nltk (3.4)
@@ -26,10 +26,19 @@ This repository comes with sample data, you can swap out the sample data with yo
 
 To run this sample:
 
-```
+```bash
 git clone https://github.com/archivesunleashed/auk-notebooks.git
 cd auk-notebooks
 jupyter notebook
+```
+
+## Docker
+
+```bash
+git clone https://github.com/archivesunleashed/auk-notebooks.git
+cd auk-notebooks
+docker build -t auk-notebook .
+docker run --rm -it -p 8888:8888 auk-notebook
 ```
 
 ## Contributing

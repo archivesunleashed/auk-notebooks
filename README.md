@@ -1,6 +1,6 @@
 # Archives Unleashed Cloud: Jupyter Notebooks
 
-A prototype Jupyter notebook to assist in creating additional visualizations from Archives Unleashed Cloud derivatives.
+[Jupyter](https://jupyter.org/) notebooks to assist in creating additional analysis and visualizations of Archives Unleashed Cloud derivatives.
 
 ![notebook screenshot](https://user-images.githubusercontent.com/3834704/53252943-1a89b880-368e-11e9-9a9a-31c43a045a55.png)
 
@@ -8,7 +8,7 @@ A prototype Jupyter notebook to assist in creating additional visualizations fro
 
 Jupyter Notebook. Follow the installation instructions on [their website](https://jupyter.org). 
 
-Dependencies. Any version higher than below should work:
+Dependencies. Any version higher than below _should_ work:
 
 * Python 3.7
 * ggplot (0.11.5)
@@ -18,13 +18,18 @@ Dependencies. Any version higher than below should work:
 * networkx (2.2)
 * nltk (3.4)
 
-## Installation
+## Usage
 
-Download this notebook from the Archives Unleashed Cloud as a derivative (or from here). Place the Cloud derivatives in a directory labelled `data`, which should be housed in the same directory that you are running the notebook from.
+We suggest using [Docker](https://www.docker.com/get-started):
 
-This repository comes with sample data, you can swap out the sample data with your own Cloud data.
+```bash
+git clone https://github.com/archivesunleashed/auk-notebooks.git
+cd auk-notebooks
+docker build -t auk-notebook .
+docker run --rm -it -p 8888:8888 auk-notebook
+```
 
-To run this sample:
+If you have the dependencies installed:
 
 ```bash
 git clone https://github.com/archivesunleashed/auk-notebooks.git
@@ -32,13 +37,10 @@ cd auk-notebooks
 jupyter notebook
 ```
 
-## Docker
+This repository comes with sample data, you can swap out the sample data with your own Cloud data.
 
 ```bash
-git clone https://github.com/archivesunleashed/auk-notebooks.git
-cd auk-notebooks
-docker build -t auk-notebook .
-docker run --rm -it -p 8888:8888 auk-notebook
+docker run --rm -it -p 8888:8888 -v "/path/to/own/data:/home/jovyan/data" auk-notebook
 ```
 
 ## Contributing

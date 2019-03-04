@@ -11,7 +11,6 @@ Jupyter Notebook. Follow the installation instructions on [their website](https:
 Dependencies. Any version higher than below _should_ work:
 
 * Python 3.7
-* ggplot (0.11.5)
 * matplotlib (3.0.2)
 * numpy (1.15.1)
 * pandas (0.23.4)
@@ -42,6 +41,8 @@ This repository comes with sample data, you can swap out the sample data with yo
 ```bash
 docker run --rm -it -p 8888:8888 -v "/path/to/own/data:/home/jovyan/data" auk-notebook
 ```
+
+This repository also uses the [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html), which provide [a lot of helpful options to take advantage of](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options).
 
 ## Contributing
 

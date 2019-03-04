@@ -14,9 +14,6 @@ RUN pip install matplotlib==3.0.2 \
                 networkx==2.2 \
                 nltk==3.4
 
-# Make things cleaner in Notebook.
-RUN rm -rf $HOME/work
-
 # Copy auk-notebook files over.
 COPY data $HOME/data
 COPY nltk_data $HOME/nltk_data

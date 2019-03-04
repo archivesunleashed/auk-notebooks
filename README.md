@@ -1,4 +1,9 @@
 # Archives Unleashed Cloud: Jupyter Notebooks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/archivesunleashed/auk-notebooks/master?filepath=auk-notebook-example.ipynb)
+[![Docker Stars](https://img.shields.io/docker/stars/archivesunleashed/auk-notebooks.svg)](https://hub.docker.com/r/archivesunleashed/auk-notebooks/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/archivesunleashed/auk-notebooks.svg)](https://hub.docker.com/r/archivesunleashed/auk-notebooks/)
+[![LICENSE](https://img.shields.io/badge/license-Apache-blue.svg?style=flat-square)](./LICENSE)
+[![Contribution Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./CONTRIBUTING.md)
 
 [Jupyter](https://jupyter.org/) notebooks to assist in creating additional analysis and visualizations of Archives Unleashed Cloud derivatives.
 
@@ -6,11 +11,10 @@
 
 ## Requirements
 
-Jupyter Notebook. Follow the installation instructions on [their website](https://jupyter.org). 
+[Anaconda Distribution](https://www.anaconda.com/distribution/#download-section) is very helpful here.
 
-Dependencies. Any version higher than below _should_ work:
-
-* Python 3.7
+* Python 3.7+
+* [Jupyter Notebook](https://jupyter.org) (1.0.0)
 * matplotlib (3.0.2)
 * numpy (1.15.1)
 * pandas (0.23.4)
@@ -19,7 +23,15 @@ Dependencies. Any version higher than below _should_ work:
 
 ## Usage
 
-We suggest using [Docker](https://www.docker.com/get-started):
+We suggest using [Docker](https://www.docker.com/get-started), or [Anaconda Distribution](https://www.anaconda.com/distribution).
+
+### Docker Hub
+
+```bash
+docker run --rm -it -p 8888:8888 archivesunleashed/auk-notebooks
+```
+
+### Docker Locally
 
 ```bash
 git clone https://github.com/archivesunleashed/auk-notebooks.git
@@ -28,25 +40,23 @@ docker build -t auk-notebook .
 docker run --rm -it -p 8888:8888 auk-notebook
 ```
 
-If you have the dependencies installed:
+This repository comes with sample data, you can swap out the sample data with your own Archives Unleashed Cloud data.
+
+```bash
+docker run --rm -it -p 8888:8888 -v "/path/to/own/data:/home/jovyan/data" auk-notebook
+```
+
+> [You must grant the within-container notebook user or group (NB_UID or NB_GID) write access to the host directory (e.g., sudo chown 1000 /some/host/folder/for/work).](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options)
+
+This repository also uses the [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html), which provide [a lot of helpful options to take advantage of](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options).
+
+### Local (Anaconda)
 
 ```bash
 git clone https://github.com/archivesunleashed/auk-notebooks.git
 cd auk-notebooks
 jupyter notebook
 ```
-
-This repository comes with sample data, you can swap out the sample data with your own Cloud data.
-
-```bash
-docker run --rm -it -p 8888:8888 -v "/path/to/own/data:/home/jovyan/data" auk-notebook
-```
-
-This repository also uses the [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html), which provide [a lot of helpful options to take advantage of](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options).
-
-## Contributing
-
-Please see [contributing guidelines](https://github.com/archivesunleashed/auk-notebooks/blob/master/CONTRIBUTING.md) for details.
 
 ## License
 

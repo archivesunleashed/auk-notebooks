@@ -11,19 +11,19 @@
 
 ## Requirements
 
-[Anaconda Distribution](https://www.anaconda.com/distribution/#download-section) is very helpful here.
+We suggest using [Docker](https://www.docker.com/get-started), or [Anaconda Distribution](https://www.anaconda.com/distribution).
 
-* Python 3.7+
+* [Python](https://www.python.org/downloads/) 3.7+
 * [Jupyter Notebook](https://jupyter.org) (1.0.0)
-* matplotlib (3.0.2)
-* numpy (1.15.1)
-* pandas (0.23.4)
-* networkx (2.2)
-* nltk (3.4)
+* [Matplotlib](https://matplotlib.org) (3.0.2)
+* [Numpy](https://pypi.org/project/numpy/#history) (1.15.1)
+* [Pandas](https://pandas.pydata.org) (0.23.4)
+* [Networks](https://networkx.github.io) (2.2)
+* [NLTK](https://www.nltk.org/install.html) (3.4)
+
 
 ## Usage
 
-We suggest using [Docker](https://www.docker.com/get-started), or [Anaconda Distribution](https://www.anaconda.com/distribution).
 
 ### Docker Hub
 
@@ -46,7 +46,7 @@ This repository comes with sample data, you can swap out the sample data with yo
 docker run --rm -it -p 8888:8888 -v "/path/to/own/data:/home/jovyan/data" auk-notebook
 ```
 
-> [You must grant the within-container notebook user or group (NB_UID or NB_GID) write access to the host directory (e.g., sudo chown 1000 /some/host/folder/for/work).](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options)
+> You must grant the within-container notebook user or group [(NB_UID or NB_GID)](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options) write access to the host directory (e.g., sudo chown 1000 /some/host/folder/for/work).
 
 This repository also uses the [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html), which provide [a lot of helpful options to take advantage of](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options).
 

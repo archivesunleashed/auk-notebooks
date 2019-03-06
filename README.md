@@ -62,6 +62,15 @@ jupyter notebook
 
 This application is available as open source under the terms of the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
+## Resources
+
+The example dataset in the `data` directory was created with the [Archives Unleashed Cloud](https://cloud.archivesunleashed.org/), and is drawn from the [B.C. Teachers' Labour Dispute (2014)](https://archive-it.org/collections/4867), collected by the University of Victoria Libraries. We are grateful that they've allowed us to use this material. The full-text derivative file is a random sample (37,000 lines) of the complete file because of GitHub file size limitations.
+
+If you use this material, please cite it along the following lines:
+
+- Archives Unleashed Project. (2018). Archives Unleashed Toolkit (Version 0.17.0). Apache License, Version 2.0.
+- University of Victoria Libraries, B.C. Teachers' Labour Dispute (2014), Archive-It Collection 4867, https://archive-it.org/collections/4867.
+
 ## Acknowledgments
 
 This work is primarily supported by the [Andrew W. Mellon Foundation](https://uwaterloo.ca/arts/news/multidisciplinary-project-will-help-historians-unlock). Any opinions, findings, and conclusions or recommendations expressed are those of the researchers and do not necessarily reflect the views of the sponsors.

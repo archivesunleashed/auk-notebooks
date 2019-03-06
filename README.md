@@ -24,6 +24,30 @@ We suggest using [Docker](https://www.docker.com/get-started), or [Anaconda Dist
 
 ## Usage
 
+Anaconda is a package manager that can help you find packages and dependencies, including some of the most popular ones used in data science research analysis. To run the Jupyter Notebook via Anaconda run through the following:
+
+
+### Local (Anaconda)
+
+```bash
+git clone https://github.com/archivesunleashed/auk-notebooks.git
+cd auk-notebooks
+jupyter notebook
+```
+
+> Once inside the notebook, you may have to run an additional cell to configure the NLTK dependency. To do this you can: _insert > cell below_ underneathe the user confirguration script and run 
+
+```bash
+nltk.download()
+```
+
+A separte window will pop up to download NLTK packages. Highlight _all_ and then click download. This may take a few minutes. Once complete you can return to the notebook and select _cell > run all_.
+
+
+### Docker
+
+Docker is a container-based virtual machine system that bundles dependencies together, this means you can build the docker image and it will work out of the box. To run the Jupyter Notebook via Docker, there are two options, Docker Hub and Docker Locally.  
+
 
 ### Docker Hub
 
@@ -46,17 +70,22 @@ This repository comes with sample data, you can swap out the sample data with yo
 docker run --rm -it -p 8888:8888 -v "/path/to/own/data:/home/jovyan/data" auk-notebook
 ```
 
-> You must grant the within-container notebook user or group [(NB_UID or NB_GID)](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options) write access to the host directory (e.g., sudo chown 1000 /some/host/folder/for/work).
+> Note: You must grant the within-container notebook user or group [(NB_UID or NB_GID)](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options) write access to the host directory (e.g., sudo chown 1000 /some/host/folder/for/work).
 
-This repository also uses the [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html), which provide [a lot of helpful options to take advantage of](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options).
+## Types of Visualizations
 
-### Local (Anaconda)
+There are several types of visualizations that you can produce in the Jupyter Notebook. 
 
-```bash
-git clone https://github.com/archivesunleashed/auk-notebooks.git
-cd auk-notebooks
-jupyter notebook
-```
+* Basic Domain Analysis
+* Text Analysis
+* Sentiment Analysis
+* Network Analysis
+
+
+## Additional Resources
+
+This repository also uses the [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html), which provide some helpful options for [customizing](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options) the container environment.
+
 
 ## License
 

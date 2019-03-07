@@ -8,15 +8,12 @@ LABEL description="Docker image for the Archives Unleashed Notebooks"
 LABEL website="https://archivesunleashed.org/"
 
 # Install auk-notebook dependencies.
-RUN pip install matplotlib==3.0.2 \
-                numpy==1.15.1 \
-                pandas==0.23.4 \
-                networkx==2.2 \
-                nltk==3.4
+COPY requirements.txt /tmp/requirements.txt
+RUN pip install -r /tmp/requirements.txt
+RUN python -m nltk.downloader punkt vader_lexicon stopwords
 
 # Copy auk-notebook files over.
 COPY data $HOME/data
-COPY nltk_data $HOME/nltk_data
 COPY auk-notebook.ipynb $HOME
 COPY auk-notebook-example.ipynb $HOME
 

@@ -20,10 +20,23 @@
 * pandas (0.23.4)
 * networkx (2.2)
 * nltk (3.4)
+  * punkt
+  * vader_lexicon
+  * stopwords
 
 ## Usage
 
 We suggest using [Docker](https://www.docker.com/get-started), or [Anaconda Distribution](https://www.anaconda.com/distribution).
+
+### Local (Anaconda)
+
+```bash
+git clone https://github.com/archivesunleashed/auk-notebooks.git
+cd auk-notebooks
+pip install -r requirements.txt
+python -m nltk.downloader punkt vader_lexicon stopwords
+jupyter notebook
+```
 
 ### Docker Hub
 
@@ -49,14 +62,6 @@ docker run --rm -it -p 8888:8888 -v "/path/to/own/data:/home/jovyan/data" auk-no
 > [You must grant the within-container notebook user or group (NB_UID or NB_GID) write access to the host directory (e.g., sudo chown 1000 /some/host/folder/for/work).](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options)
 
 This repository also uses the [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html), which provide [a lot of helpful options to take advantage of](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options).
-
-### Local (Anaconda)
-
-```bash
-git clone https://github.com/archivesunleashed/auk-notebooks.git
-cd auk-notebooks
-jupyter notebook
-```
 
 ## License
 

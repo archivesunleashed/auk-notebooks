@@ -11,22 +11,22 @@
 
 ## Requirements
 
-[Anaconda Distribution](https://www.anaconda.com/distribution/#download-section) is very helpful here.
+We suggest using [Anaconda Distribution](https://www.anaconda.com/distribution) or [Docker](https://www.docker.com/get-started).
 
-* Python 3.7+
+* [Python](https://www.python.org/downloads/) 3.7+
 * [Jupyter Notebook](https://jupyter.org) (1.0.0)
-* matplotlib (3.0.2)
-* numpy (1.15.1)
-* pandas (0.23.4)
-* networkx (2.2)
-* nltk (3.4)
+* [matplotlib](https://matplotlib.org) (3.0.2)
+* [numpy](https://pypi.org/project/numpy/#history) (1.15.1)
+* [pandas](https://pandas.pydata.org) (0.23.4)
+* [networkx](https://networkx.github.io) (2.2)
+* [nltk](https://www.nltk.org/install.html) (3.4)
   * punkt
   * vader_lexicon
   * stopwords
 
 ## Usage
 
-We suggest using [Docker](https://www.docker.com/get-started), or [Anaconda Distribution](https://www.anaconda.com/distribution).
+Anaconda is a package manager that can help you find packages and dependencies, including some of the most popular ones used in data science research analysis. To run the Jupyter Notebook via Anaconda run the following:
 
 ### Local (Anaconda)
 
@@ -37,6 +37,10 @@ pip install -r requirements.txt
 python -m nltk.downloader punkt vader_lexicon stopwords
 jupyter notebook
 ```
+
+### Docker
+
+Docker is a container-based virtual machine system that bundles dependencies together, this means you can build the Docker image and it will work out of the box. To run the Jupyter Notebook via Docker, there are two options, Docker Hub and Docker Locally. 
 
 ### Docker Hub
 
@@ -59,9 +63,20 @@ This repository comes with sample data, you can swap out the sample data with yo
 docker run --rm -it -p 8888:8888 -v "/path/to/own/data:/home/jovyan/data" auk-notebook
 ```
 
-> [You must grant the within-container notebook user or group (NB_UID or NB_GID) write access to the host directory (e.g., sudo chown 1000 /some/host/folder/for/work).](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options)
+> Note: You must grant the within-container notebook user or group [(NB_UID or NB_GID)](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options) write access to the host directory (e.g., sudo chown 1000 /some/host/folder/for/work).
 
-This repository also uses the [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html), which provide [a lot of helpful options to take advantage of](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options).
+## Types of Visualizations
+
+There are several types of visualizations that you can produce in the Jupyter Notebook. A total of 14 outputs can be generated.
+
+* *Domain Analysis*: Provides information about what has been crawled (e.g. which domains) and how often.
+* *Text Analysis*: Highlights the frequency of words through various filters including domain and year.
+* *Sentiment Analysis*: Visualizes sentiment scores by domain and year.
+* *Network Analysis*: Shows the connections and relationship among websites through network graph layouts. 
+
+## Additional Notes
+
+This repository also uses the [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html), which provide several helpful options for [customizing](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options) the container environment.
 
 ## License
 

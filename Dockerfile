@@ -9,13 +9,12 @@ LABEL website="https://archivesunleashed.org/"
 
 # Install auk-notebook dependencies.
 COPY requirements.txt /tmp/requirements.txt
-RUN pip install -r /tmp/requirements.txt
+RUN python -m pip install -r /tmp/requirements.txt
 RUN python -m nltk.downloader punkt vader_lexicon stopwords
 
 # Copy auk-notebook files over.
 COPY data $HOME/data
 COPY auk-notebook.ipynb $HOME
-COPY aunb.py $HOME
 
 # Start Jupyter Notebook.
 CMD ["start-notebook.sh"]

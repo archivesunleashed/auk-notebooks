@@ -15,6 +15,7 @@ We suggest using [Anaconda Distribution](https://www.anaconda.com/distribution) 
 
 * [Python](https://www.python.org/downloads/) 3.7+
 * [Jupyter Notebook](https://jupyter.org) (1.0.0)
+* [au_notebook](https://github.com/archivesunleashed/au_notebook) (0.0.2)
 * [matplotlib](https://matplotlib.org) (3.0.2)
 * [numpy](https://pypi.org/project/numpy/#history) (1.15.1)
 * [pandas](https://pandas.pydata.org) (0.23.4)

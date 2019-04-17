@@ -14,7 +14,9 @@ RUN python -m nltk.downloader punkt vader_lexicon stopwords
 
 # Copy auk-notebook files over.
 COPY data $HOME/data
-COPY auk-notebook.ipynb $HOME
+COPY auk-notebook-domains.ipynb $HOME
+COPY auk-notebook-text.ipynb $HOME
+COPY auk-notebook-network.ipynb $HOME
 
 # Start Jupyter Notebook.
 CMD ["start-notebook.sh"]

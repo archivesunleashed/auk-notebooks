@@ -15,7 +15,7 @@ We suggest using [Anaconda Distribution](https://www.anaconda.com/distribution) 
 
 * [Python](https://www.python.org/downloads/) 3.7+
 * [Jupyter Notebook](https://jupyter.org) (1.0.0)
-* [au_notebook](https://github.com/archivesunleashed/au_notebook) (0.0.2)
+* [au_notebook](https://github.com/archivesunleashed/au_notebook) (0.0.3)
 * [matplotlib](https://matplotlib.org) (3.0.2)
 * [numpy](https://pypi.org/project/numpy/#history) (1.15.1)
 * [pandas](https://pandas.pydata.org) (0.23.4)
@@ -41,7 +41,7 @@ jupyter notebook
 
 ### Docker
 
-Docker is a container-based virtual machine system that bundles dependencies together, this means you can build the Docker image and it will work out of the box. To run the Jupyter Notebook via Docker, there are two options, Docker Hub and Docker Locally. 
+Docker is a container-based virtual machine system that bundles dependencies together, this means you can build the Docker image and it will work out of the box. To run the Jupyter Notebook via Docker, there are two options, Docker Hub and Docker Locally.
 
 ### Docker Hub
 
@@ -73,7 +73,7 @@ There are several types of visualizations that you can produce in the Jupyter No
 * *Domain Analysis*: Provides information about what has been crawled (e.g. which domains) and how often.
 * *Text Analysis*: Highlights the frequency of words through various filters including domain and year.
 * *Sentiment Analysis*: Visualizes sentiment scores by domain and year.
-* *Network Analysis*: Shows the connections and relationship among websites through network graph layouts. 
+* *Network Analysis*: Shows the connections and relationship among websites through network graph layouts.
 
 ## Additional Notes
 

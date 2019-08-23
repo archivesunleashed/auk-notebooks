@@ -20,7 +20,7 @@ We suggest using [Anaconda Distribution](https://www.anaconda.com/distribution) 
 * [numpy](https://pypi.org/project/numpy/#history) (1.15.1)
 * [pandas](https://pandas.pydata.org) (0.23.4)
 * [networkx](https://networkx.github.io) (2.2)
-* [nltk](https://www.nltk.org/install.html) (3.4)
+* [nltk](https://www.nltk.org/install.html) (3.4.5)
   * punkt
   * vader_lexicon
   * stopwords

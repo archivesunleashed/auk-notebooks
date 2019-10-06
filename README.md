@@ -9,6 +9,10 @@
 
 ![notebook screenshot](https://user-images.githubusercontent.com/3834704/53252943-1a89b880-368e-11e9-9a9a-31c43a045a55.png)
 
+The following article provides a nice overview:
+
+Deschamps, Ryan, Ruest, Nick, Lin, Jimmy, Fritz, Samantha, Milligan, Ian. [The Archives Unleashed Notebook: Madlibs for Jumpstarting Scholarly Exploration](http://hdl.handle.net/10315/36160). Proceedings of the 2019 IEEE/ACM Joint Conference on Digital Libraries (JCDL 2019), June 2019, Urbana-Champaign, Illinois.
+
 ## Requirements
 
 We suggest using [Anaconda Distribution](https://www.anaconda.com/distribution) or [Docker](https://www.docker.com/get-started).

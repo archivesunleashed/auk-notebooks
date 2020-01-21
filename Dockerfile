@@ -9,6 +9,8 @@ LABEL website="https://archivesunleashed.org/"
 
 # Install auk-notebook dependencies.
 COPY requirements.txt /tmp/requirements.txt
+RUN wget https://bootstrap.pypa.io/get-pip.py -O /tmp/get-pip.py
+RUN python /tmp/get-pip.py
 RUN python -m pip install -r /tmp/requirements.txt
 RUN python -m nltk.downloader punkt vader_lexicon stopwords
 
